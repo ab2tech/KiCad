@@ -1,7 +1,7 @@
 KiCad
 =====
 
-KiCad modules, libraries, and templates as created by the folks at AB2 Technologies.
+KiCad modules, libraries, and templates as created by AB2 Technologies.
 
 [http://www.ab2tech.com](http://www.ab2tech.com "AB2 Technologies")
 
