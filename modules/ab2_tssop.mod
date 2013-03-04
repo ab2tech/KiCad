@@ -1,10 +1,10 @@
-PCBNEW-LibModule-V1  2/28/2013 10:00:16 PM
+PCBNEW-LibModule-V1  3/3/2013 10:57:12 PM
 # encoding utf-8
 $INDEX
 AB2_TSSOP16
 $EndINDEX
 $MODULE AB2_TSSOP16
-Po 0 0 0 15 5130251B 00000000 ~~
+Po 0 0 0 15 513429A5 00000000 ~~
 Li AB2_TSSOP16
 Sc 00000000
 AR AB2_TSSOP16
@@ -38,6 +38,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -896 1346
+.LocalClearance 50
 $EndPAD
 $PAD
 Sh "2" R 157 472 0 0 0
@@ -45,6 +46,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -640 1346
+.LocalClearance 50
 $EndPAD
 $PAD
 Sh "3" R 157 472 0 0 0
@@ -52,6 +54,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -384 1346
+.LocalClearance 50
 $EndPAD
 $PAD
 Sh "4" R 157 472 0 0 0
@@ -59,6 +62,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -128 1346
+.LocalClearance 50
 $EndPAD
 $PAD
 Sh "5" R 157 472 0 0 0
@@ -66,6 +70,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 128 1346
+.LocalClearance 50
 $EndPAD
 $PAD
 Sh "6" R 157 472 0 0 0
@@ -73,6 +78,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 384 1346
+.LocalClearance 50
 $EndPAD
 $PAD
 Sh "7" R 157 472 0 0 0
@@ -80,6 +86,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 640 1346
+.LocalClearance 50
 $EndPAD
 $PAD
 Sh "8" R 157 472 0 0 0
@@ -87,6 +94,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 896 1346
+.LocalClearance 50
 $EndPAD
 $PAD
 Sh "9" R 157 472 0 0 0
@@ -94,6 +102,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 896 -1346
+.LocalClearance 50
 $EndPAD
 $PAD
 Sh "10" R 157 472 0 0 0
@@ -101,6 +110,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 640 -1346
+.LocalClearance 50
 $EndPAD
 $PAD
 Sh "11" R 157 472 0 0 0
@@ -108,6 +118,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 384 -1346
+.LocalClearance 50
 $EndPAD
 $PAD
 Sh "12" R 157 472 0 0 0
@@ -115,6 +126,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 128 -1346
+.LocalClearance 50
 $EndPAD
 $PAD
 Sh "13" R 157 472 0 0 0
@@ -122,6 +134,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -128 -1346
+.LocalClearance 50
 $EndPAD
 $PAD
 Sh "14" R 157 472 0 0 0
@@ -129,6 +142,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -384 -1346
+.LocalClearance 50
 $EndPAD
 $PAD
 Sh "15" R 157 472 0 0 0
@@ -136,6 +150,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -640 -1346
+.LocalClearance 50
 $EndPAD
 $PAD
 Sh "16" R 157 472 0 0 0
@@ -143,6 +158,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -896 -1346
+.LocalClearance 50
 $EndPAD
 $EndMODULE  AB2_TSSOP16
 $EndLIBRARY
