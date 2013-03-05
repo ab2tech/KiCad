@@ -1,10 +1,10 @@
-PCBNEW-LibModule-V1  3/3/2013 11:29:11 PM
+PCBNEW-LibModule-V1  3/4/2013 10:04:35 PM
 # encoding utf-8
 $INDEX
 AB2_microUSB
 $EndINDEX
 $MODULE AB2_microUSB
-Po 0 0 0 15 51343123 00000000 ~~
+Po 0 0 0 15 51356ECF 00000000 ~~
 Li AB2_microUSB
 Sc 00000000
 AR AB2_microUSB
@@ -102,6 +102,7 @@ Dr 394 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -1112 0
+.LocalClearance 50
 $EndPAD
 $PAD
 Sh "6" C 669 669 0 0 0
@@ -109,6 +110,7 @@ Dr 394 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 1112 0
+.LocalClearance 50
 $EndPAD
 $PAD
 Sh "" C 217 217 0 0 0
@@ -116,6 +118,7 @@ Dr 217 0 0
 At HOLE N 00E0FFFF
 Ne 0 ""
 Po -787 -846
+.LocalClearance 50
 $EndPAD
 $PAD
 Sh "" C 217 217 0 0 0
@@ -123,6 +126,7 @@ Dr 217 0 0
 At HOLE N 00E0FFFF
 Ne 0 ""
 Po 787 -846
+.LocalClearance 50
 $EndPAD
 $EndMODULE  AB2_microUSB
 $EndLIBRARY
