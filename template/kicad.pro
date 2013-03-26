@@ -122,7 +122,7 @@ RptLab=1
 SimCmd=
 UseNetN=0
 LabSize=60
-[eeschema/libraries]
+[eeschema/librarie
 LibName1=ab2_buffer
 LibName2=ab2_capacitor
 LibName3=ab2_header
