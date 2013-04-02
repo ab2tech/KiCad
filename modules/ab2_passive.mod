@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  4/1/2013 12:07:30 AM
+PCBNEW-LibModule-V1  4/2/2013 12:49:34 AM
 # encoding utf-8
 Units mm
 $INDEX
@@ -34,7 +34,7 @@ Po 0.9 0
 $EndPAD
 $EndMODULE AB2_0805
 $MODULE AB2_PANASONIC-C
-Po 0 0 0 15 51591606 00000000 ~~
+Po 0 0 0 15 515A6C1A 00000000 ~~
 Li AB2_PANASONIC-C
 Sc 0
 AR 
@@ -53,7 +53,7 @@ Sh "1" R 2.8 1.6 0 0 1800
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -4.3 0
+Po -2.15 0
 .LocalClearance 0.127
 $EndPAD
 $PAD
