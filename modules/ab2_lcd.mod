@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  4/4/2013 9:32:11 PM
+PCBNEW-LibModule-V1  4/4/2013 10:00:53 PM
 # encoding utf-8
 Units mm
 $INDEX
@@ -250,7 +250,7 @@ Po 19.05 0
 $EndPAD
 $EndMODULE AB2_HDR_M16-1V_LCD
 $MODULE AB2_LCD_DRILLS-20X4
-Po 0 0 0 15 515E377C 00000000 ~~
+Po 0 0 0 15 515E3E06 00000000 ~~
 Li AB2_LCD_DRILLS-20X4
 Sc 0
 AR 
@@ -275,7 +275,7 @@ Dr 3.2 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -46.5 27.5
-.LocalClearance 0.127
+.LocalClearance 1.2
 $EndPAD
 $PAD
 Sh "1" C 3.2 3.2 0 0 0
@@ -283,7 +283,7 @@ Dr 3.2 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 46.5 27.5
-.LocalClearance 0.127
+.LocalClearance 1.2
 $EndPAD
 $PAD
 Sh "1" C 3.2 3.2 0 0 0
@@ -291,7 +291,7 @@ Dr 3.2 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 46.5 -27.5
-.LocalClearance 0.127
+.LocalClearance 1.2
 $EndPAD
 $PAD
 Sh "1" C 3.2 3.2 0 0 0
@@ -299,7 +299,7 @@ Dr 3.2 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -46.5 -27.5
-.LocalClearance 0.127
+.LocalClearance 1.2
 $EndPAD
 $EndMODULE AB2_LCD_DRILLS-20X4
 $EndLIBRARY
