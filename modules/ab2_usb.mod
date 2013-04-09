@@ -1,11 +1,11 @@
-PCBNEW-LibModule-V1  3/21/2013 10:37:38 PM
+PCBNEW-LibModule-V1 4/9/2013 12:48:59 AM
 # encoding utf-8
 Units mm
 $INDEX
 AB2_microUSB
 $EndINDEX
 $MODULE AB2_microUSB
-Po 0 0 0 15 514BD1F3 00000000 ~~
+Po 0 0 0 15 5163ABCB 00000000 ~~
 Li AB2_microUSB
 Sc 0
 AR AB2_microUSB
@@ -63,7 +63,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -1.3 -2.675
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "2" R 0.4 1.35 0 0 0
@@ -71,7 +70,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -0.65 -2.675
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "3" R 0.4 1.35 0 0 0
@@ -79,7 +77,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0 -2.675
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "4" R 0.4 1.35 0 0 0
@@ -87,7 +84,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0.65 -2.675
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "5" R 0.4 1.35 0 0 0
@@ -95,7 +91,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 1.3 -2.675
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "6" C 1.7 1.7 0 0 0
@@ -103,7 +98,6 @@ Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -2.825 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "6" C 1.7 1.7 0 0 0
@@ -111,7 +105,6 @@ Dr 1 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.825 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "" C 0.55 0.55 0 0 0
@@ -119,7 +112,6 @@ Dr 0.55 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -2 -2.15
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "" C 0.55 0.55 0 0 0
@@ -127,7 +119,6 @@ Dr 0.55 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 1.99898 -2.15
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_microUSB
 $EndLIBRARY

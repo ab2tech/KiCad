@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  4/4/2013 10:37:16 PM
+PCBNEW-LibModule-V1 4/9/2013 12:48:59 AM
 # encoding utf-8
 Units mm
 $INDEX
@@ -18,7 +18,7 @@ AB2_HDR_M10-1V
 AB2_HDR_M11-1V
 $EndINDEX
 $MODULE AB2_HDR_F09-1H-R
-Po 0 0 0 15 5134324B 00000000 ~~
+Po 0 0 0 15 5163ABCB 00000000 ~~
 Li AB2_HDR_F09-1H-R
 Sc 0
 AR /512441AF
@@ -84,7 +84,6 @@ Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -10.16 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "2" C 1.524 1.524 0 0 0
@@ -92,7 +91,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -7.62 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "3" C 1.524 1.524 0 0 0
@@ -100,7 +98,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -5.08 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "4" C 1.524 1.524 0 0 0
@@ -108,7 +105,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -2.54 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "5" C 1.524 1.524 0 0 0
@@ -116,7 +112,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "6" C 1.524 1.524 0 0 0
@@ -124,7 +119,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "7" C 1.524 1.524 0 0 0
@@ -132,7 +126,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 5.08 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "8" C 1.524 1.524 0 0 0
@@ -140,7 +133,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 7.62 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "9" C 1.524 1.524 0 0 0
@@ -148,11 +140,10 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 10.16 0
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_HDR_F09-1H-R
 $MODULE AB2_HDR_M01-1V
-Po 0 0 0 15 513432BC 00000000 ~~
+Po 0 0 0 15 5163ABCB 00000000 ~~
 Li AB2_HDR_M01-1V
 Sc 0
 AR /512441AF
@@ -173,11 +164,10 @@ Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 0
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_HDR_M01-1V
 $MODULE AB2_HDR_M02-1V
-Po 0 0 0 15 513432CC 00000000 ~~
+Po 0 0 0 15 5163ABCB 00000000 ~~
 Li AB2_HDR_M02-1V
 Sc 0
 AR /512441AF
@@ -204,7 +194,6 @@ Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -1.27 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "2" C 1.524 1.524 0 0 0
@@ -212,11 +201,10 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 1.27 0
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_HDR_M02-1V
 $MODULE AB2_HDR_M03-1V
-Po 0 0 0 15 513432AD 00000000 ~~
+Po 0 0 0 15 5163ABCB 00000000 ~~
 Li AB2_HDR_M03-1V
 Sc 0
 AR /512441AF
@@ -249,7 +237,6 @@ Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -2.54 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "2" C 1.524 1.524 0 0 0
@@ -257,7 +244,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "3" C 1.524 1.524 0 0 0
@@ -265,11 +251,10 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 0
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_HDR_M03-1V
 $MODULE AB2_HDR_M04-1V
-Po 0 0 0 15 513432F4 00000000 ~~
+Po 0 0 0 15 5163ABCB 00000000 ~~
 Li AB2_HDR_M04-1V
 Sc 0
 AR /512441AF
@@ -308,7 +293,6 @@ Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -3.81 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "2" C 1.524 1.524 0 0 0
@@ -316,7 +300,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -1.27 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "3" C 1.524 1.524 0 0 0
@@ -324,7 +307,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 1.27 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "4" C 1.524 1.524 0 0 0
@@ -332,11 +314,10 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 3.81 0
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_HDR_M04-1V
 $MODULE AB2_HDR_M05-1V
-Po 0 0 0 15 5134330D 00000000 ~~
+Po 0 0 0 15 5163ABCB 00000000 ~~
 Li AB2_HDR_M05-1V
 Sc 0
 AR /512441AF
@@ -381,7 +362,6 @@ Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -5.08 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "2" C 1.524 1.524 0 0 0
@@ -389,7 +369,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -2.54 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "3" C 1.524 1.524 0 0 0
@@ -397,7 +376,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "4" C 1.524 1.524 0 0 0
@@ -405,7 +383,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "5" C 1.524 1.524 0 0 0
@@ -413,11 +390,10 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 5.08 0
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_HDR_M05-1V
 $MODULE AB2_HDR_M06-1V
-Po 0 0 0 15 5134332D 00000000 ~~
+Po 0 0 0 15 5163ABCB 00000000 ~~
 Li AB2_HDR_M06-1V
 Sc 0
 AR /512441AF
@@ -468,7 +444,6 @@ Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -6.35 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "2" C 1.524 1.524 0 0 0
@@ -476,7 +451,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -3.81 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "3" C 1.524 1.524 0 0 0
@@ -484,7 +458,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -1.27 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "4" C 1.524 1.524 0 0 0
@@ -492,7 +465,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 1.27 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "5" C 1.524 1.524 0 0 0
@@ -500,7 +472,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 3.81 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "6" C 1.524 1.524 0 0 0
@@ -508,11 +479,10 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 6.35 0
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_HDR_M06-1V
 $MODULE AB2_HDR_M07-1V
-Po 0 0 0 15 5134335E 00000000 ~~
+Po 0 0 0 15 5163ABCB 00000000 ~~
 Li AB2_HDR_M07-1V
 Sc 0
 AR /512441AF
@@ -569,7 +539,6 @@ Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -7.62 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "2" C 1.524 1.524 0 0 0
@@ -577,7 +546,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -5.08 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "3" C 1.524 1.524 0 0 0
@@ -585,7 +553,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -2.54 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "4" C 1.524 1.524 0 0 0
@@ -593,7 +560,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "5" C 1.524 1.524 0 0 0
@@ -601,7 +567,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "6" C 1.524 1.524 0 0 0
@@ -609,7 +574,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 5.08 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "7" C 1.524 1.524 0 0 0
@@ -617,11 +581,10 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 7.62 0
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_HDR_M07-1V
 $MODULE AB2_HDR_M08-1V
-Po 0 0 0 15 51343389 00000000 ~~
+Po 0 0 0 15 5163ABCB 00000000 ~~
 Li AB2_HDR_M08-1V
 Sc 0
 AR /512441AF
@@ -684,7 +647,6 @@ Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -8.89 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "2" C 1.524 1.524 0 0 0
@@ -692,7 +654,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -6.35 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "3" C 1.524 1.524 0 0 0
@@ -700,7 +661,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -3.81 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "4" C 1.524 1.524 0 0 0
@@ -708,7 +668,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -1.27 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "5" C 1.524 1.524 0 0 0
@@ -716,7 +675,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 1.27 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "6" C 1.524 1.524 0 0 0
@@ -724,7 +682,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 3.81 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "7" C 1.524 1.524 0 0 0
@@ -732,7 +689,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 6.35 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "8" C 1.524 1.524 0 0 0
@@ -740,11 +696,10 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 8.89 0
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_HDR_M08-1V
 $MODULE AB2_HDR_M09-1H-L
-Po 0 0 0 15 51343299 00000000 ~~
+Po 0 0 0 15 5163ABCB 00000000 ~~
 Li AB2_HDR_M09-1H-L
 Sc 0
 AR /512441AF
@@ -796,7 +751,6 @@ Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -10.16 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "2" C 1.524 1.524 0 0 0
@@ -804,7 +758,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -7.62 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "3" C 1.524 1.524 0 0 0
@@ -812,7 +765,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -5.08 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "4" C 1.524 1.524 0 0 0
@@ -820,7 +772,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -2.54 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "5" C 1.524 1.524 0 0 0
@@ -828,7 +779,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "6" C 1.524 1.524 0 0 0
@@ -836,7 +786,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "7" C 1.524 1.524 0 0 0
@@ -844,7 +793,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 5.08 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "8" C 1.524 1.524 0 0 0
@@ -852,7 +800,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 7.62 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "9" C 1.524 1.524 0 0 0
@@ -860,11 +807,10 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 10.16 0
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_HDR_M09-1H-L
 $MODULE AB2_HDR_M09-1H-R
-Po 0 0 0 15 51343565 00000000 ~~
+Po 0 0 0 15 5163ABCB 00000000 ~~
 Li AB2_HDR_M09-1H-R
 Sc 0
 AR /512441AF
@@ -929,7 +875,6 @@ Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -10.16 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "2" C 1.524 1.524 0 0 0
@@ -937,7 +882,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -7.62 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "3" C 1.524 1.524 0 0 0
@@ -945,7 +889,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -5.08 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "4" C 1.524 1.524 0 0 0
@@ -953,7 +896,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -2.54 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "5" C 1.524 1.524 0 0 0
@@ -961,7 +903,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "6" C 1.524 1.524 0 0 0
@@ -969,7 +910,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "7" C 1.524 1.524 0 0 0
@@ -977,7 +917,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 5.08 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "8" C 1.524 1.524 0 0 0
@@ -985,7 +924,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 7.62 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "9" C 1.524 1.524 0 0 0
@@ -993,11 +931,10 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 10.16 0
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_HDR_M09-1H-R
 $MODULE AB2_HDR_M09-1V
-Po 0 0 0 15 513435B0 00000000 ~~
+Po 0 0 0 15 5163ABCB 00000000 ~~
 Li AB2_HDR_M09-1V
 Sc 0
 AR /512441AF
@@ -1066,7 +1003,6 @@ Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -10.16 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "2" C 1.524 1.524 0 0 0
@@ -1074,7 +1010,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -7.62 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "3" C 1.524 1.524 0 0 0
@@ -1082,7 +1017,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -5.08 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "4" C 1.524 1.524 0 0 0
@@ -1090,7 +1024,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -2.54 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "5" C 1.524 1.524 0 0 0
@@ -1098,7 +1031,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "6" C 1.524 1.524 0 0 0
@@ -1106,7 +1038,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "7" C 1.524 1.524 0 0 0
@@ -1114,7 +1045,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 5.08 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "8" C 1.524 1.524 0 0 0
@@ -1122,7 +1052,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 7.62 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "9" C 1.524 1.524 0 0 0
@@ -1130,11 +1059,10 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 10.16 0
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_HDR_M09-1V
 $MODULE AB2_HDR_M10-1V
-Po 0 0 0 15 513435E3 00000000 ~~
+Po 0 0 0 15 5163ABCB 00000000 ~~
 Li AB2_HDR_M10-1V
 Sc 0
 AR /512441AF
@@ -1209,7 +1137,6 @@ Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -11.43 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "2" C 1.524 1.524 0 0 0
@@ -1217,7 +1144,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -8.89 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "3" C 1.524 1.524 0 0 0
@@ -1225,7 +1151,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -6.35 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "4" C 1.524 1.524 0 0 0
@@ -1233,7 +1158,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -3.81 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "5" C 1.524 1.524 0 0 0
@@ -1241,7 +1165,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -1.27 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "6" C 1.524 1.524 0 0 0
@@ -1249,7 +1172,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 1.27 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "7" C 1.524 1.524 0 0 0
@@ -1257,7 +1179,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 3.81 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "8" C 1.524 1.524 0 0 0
@@ -1265,7 +1186,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 6.35 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "9" C 1.524 1.524 0 0 0
@@ -1273,7 +1193,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 8.89 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "10" C 1.524 1.524 0 0 0
@@ -1281,11 +1200,10 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 11.43 0
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_HDR_M10-1V
 $MODULE AB2_HDR_M11-1V
-Po 0 0 0 15 51343614 00000000 ~~
+Po 0 0 0 15 5163ABCB 00000000 ~~
 Li AB2_HDR_M11-1V
 Sc 0
 AR /512441AF
@@ -1366,7 +1284,6 @@ Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -12.7 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "2" C 1.524 1.524 0 0 0
@@ -1374,7 +1291,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -10.16 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "3" C 1.524 1.524 0 0 0
@@ -1382,7 +1298,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -7.62 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "4" C 1.524 1.524 0 0 0
@@ -1390,7 +1305,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -5.08 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "5" C 1.524 1.524 0 0 0
@@ -1398,7 +1312,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -2.54 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "6" C 1.524 1.524 0 0 0
@@ -1406,7 +1319,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "7" C 1.524 1.524 0 0 0
@@ -1414,7 +1326,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.54 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "8" C 1.524 1.524 0 0 0
@@ -1422,7 +1333,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 5.08 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "9" C 1.524 1.524 0 0 0
@@ -1430,7 +1340,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 7.62 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "10" C 1.524 1.524 0 0 0
@@ -1438,7 +1347,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 10.16 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "11" C 1.524 1.524 0 0 0
@@ -1446,7 +1354,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 12.7 0
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_HDR_M11-1V
 $EndLIBRARY

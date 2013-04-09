@@ -1,11 +1,11 @@
-PCBNEW-LibModule-V1  3/29/2013 10:57:20 PM
+PCBNEW-LibModule-V1 4/9/2013 12:48:59 AM
 # encoding utf-8
 Units mm
 $INDEX
 AB2_LQFP48
 $EndINDEX
 $MODULE AB2_LQFP48
-Po 0 0 0 15 51566293 00000000 ~~
+Po 0 0 0 15 5163ABCB 00000000 ~~
 Li AB2_LQFP48
 Sc 0
 AR 
@@ -23,7 +23,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -4.3 -0.25
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "5" R 1.4 0.3 0 0 0
@@ -31,7 +30,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -4.3 -0.75
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "4" R 1.4 0.3 0 0 0
@@ -39,7 +37,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -4.3 -1.25
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "3" R 1.4 0.3 0 0 0
@@ -47,7 +44,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -4.3 -1.75
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "2" R 1.4 0.3 0 0 0
@@ -55,7 +51,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -4.3 -2.25
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "1" R 1.4 0.3 0 0 0
@@ -63,7 +58,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -4.3 -2.75
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "7" R 1.4 0.3 0 0 0
@@ -71,7 +65,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -4.3 0.25
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "8" R 1.4 0.3 0 0 0
@@ -79,7 +72,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -4.3 0.75
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "9" R 1.4 0.3 0 0 0
@@ -87,7 +79,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -4.3 1.25
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "10" R 1.4 0.3 0 0 0
@@ -95,7 +86,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -4.3 1.75
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "11" R 1.4 0.3 0 0 0
@@ -103,7 +93,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -4.3 2.25
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "12" R 1.4 0.3 0 0 0
@@ -111,7 +100,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -4.3 2.75
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "13" R 0.3 1.4 0 0 0
@@ -119,7 +107,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -2.75 4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "14" R 0.3 1.4 0 0 0
@@ -127,7 +114,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -2.25 4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "15" R 0.3 1.4 0 0 0
@@ -135,7 +121,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -1.75 4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "16" R 0.3 1.4 0 0 0
@@ -143,7 +128,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -1.25 4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "17" R 0.3 1.4 0 0 0
@@ -151,7 +135,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -0.75 4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "18" R 0.3 1.4 0 0 0
@@ -159,7 +142,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -0.25 4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "19" R 0.3 1.4 0 0 0
@@ -167,7 +149,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0.25 4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "20" R 0.3 1.4 0 0 0
@@ -175,7 +156,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0.75 4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "21" R 0.3 1.4 0 0 0
@@ -183,7 +163,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 1.25 4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "22" R 0.3 1.4 0 0 0
@@ -191,7 +170,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 1.75 4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "23" R 0.3 1.4 0 0 0
@@ -199,7 +177,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 2.25 4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "24" R 0.3 1.4 0 0 0
@@ -207,7 +184,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 2.75 4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "25" R 1.4 0.3 0 0 0
@@ -215,7 +191,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 4.3 2.75
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "26" R 1.4 0.3 0 0 0
@@ -223,7 +198,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 4.3 2.25
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "27" R 1.4 0.3 0 0 0
@@ -231,7 +205,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 4.3 1.75
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "28" R 1.4 0.3 0 0 0
@@ -239,7 +212,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 4.3 1.25
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "29" R 1.4 0.3 0 0 0
@@ -247,7 +219,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 4.3 0.75
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "30" R 1.4 0.3 0 0 0
@@ -255,7 +226,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 4.3 0.25
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "31" R 1.4 0.3 0 0 0
@@ -263,7 +233,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 4.3 -0.25
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "32" R 1.4 0.3 0 0 0
@@ -271,7 +240,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 4.3 -0.75
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "33" R 1.4 0.3 0 0 0
@@ -279,7 +247,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 4.3 -1.25
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "34" R 1.4 0.3 0 0 0
@@ -287,7 +254,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 4.3 -1.75
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "35" R 1.4 0.3 0 0 0
@@ -295,7 +261,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 4.3 -2.25
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "36" R 1.4 0.3 0 0 0
@@ -303,7 +268,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 4.3 -2.75
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "37" R 0.3 1.4 0 0 0
@@ -311,7 +275,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 2.75 -4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "38" R 0.3 1.4 0 0 0
@@ -319,7 +282,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 2.25 -4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "39" R 0.3 1.4 0 0 0
@@ -327,7 +289,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 1.75 -4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "40" R 0.3 1.4 0 0 0
@@ -335,7 +296,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 1.25 -4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "41" R 0.3 1.4 0 0 0
@@ -343,7 +303,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0.75 -4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "42" R 0.3 1.4 0 0 0
@@ -351,7 +310,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0.25 -4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "43" R 0.3 1.4 0 0 0
@@ -359,7 +317,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -0.25 -4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "44" R 0.3 1.4 0 0 0
@@ -367,7 +324,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -0.75 -4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "45" R 0.3 1.4 0 0 0
@@ -375,7 +331,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -1.25 -4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "46" R 0.3 1.4 0 0 0
@@ -383,7 +338,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -1.75 -4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "47" R 0.3 1.4 0 0 0
@@ -391,7 +345,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -2.25 -4.3
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "48" R 0.3 1.4 0 0 0
@@ -399,7 +352,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -2.75 -4.3
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_LQFP48
 $EndLIBRARY

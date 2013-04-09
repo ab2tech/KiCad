@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  4/4/2013 10:00:53 PM
+PCBNEW-LibModule-V1 4/9/2013 12:48:59 AM
 # encoding utf-8
 Units mm
 $INDEX
@@ -6,7 +6,7 @@ AB2_HDR_M16-1V_LCD
 AB2_LCD_DRILLS-20X4
 $EndINDEX
 $MODULE AB2_HDR_M16-1V_LCD
-Po 0 0 0 15 51398141 00000000 ~~
+Po 0 0 0 15 5163ABCB 00000000 ~~
 Li AB2_HDR_M16-1V_LCD
 Sc 0
 AR /512441AF
@@ -126,7 +126,6 @@ Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -19.05 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "2" C 1.524 1.524 0 0 0
@@ -134,7 +133,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -16.51 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "3" C 1.524 1.524 0 0 0
@@ -142,7 +140,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -13.97 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "4" C 1.524 1.524 0 0 0
@@ -150,7 +147,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -11.43 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "5" C 1.524 1.524 0 0 0
@@ -158,7 +154,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -8.89 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "6" C 1.524 1.524 0 0 0
@@ -166,7 +161,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -6.35 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "7" C 1.524 1.524 0 0 0
@@ -174,7 +168,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -3.81 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "8" C 1.524 1.524 0 0 0
@@ -182,7 +175,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -1.27 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "9" C 1.524 1.524 0 0 0
@@ -190,7 +182,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 1.27 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "10" C 1.524 1.524 0 0 0
@@ -198,7 +189,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 3.81 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "11" C 1.524 1.524 0 0 0
@@ -206,7 +196,6 @@ Dr 0.8128 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 6.35 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "12" C 1.6764 1.6764 0 0 0
@@ -214,7 +203,6 @@ Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 8.89 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "13" C 1.6764 1.6764 0 0 0
@@ -222,7 +210,6 @@ Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 11.43 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "14" C 1.6764 1.6764 0 0 0
@@ -230,7 +217,6 @@ Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 13.97 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "15" C 1.6764 1.6764 0 0 0
@@ -238,7 +224,6 @@ Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 16.51 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "16" C 1.6764 1.6764 0 0 0
@@ -246,11 +231,10 @@ Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 19.05 0
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_HDR_M16-1V_LCD
 $MODULE AB2_LCD_DRILLS-20X4
-Po 0 0 0 15 515E3E06 00000000 ~~
+Po 0 0 0 15 5163ABCB 00000000 ~~
 Li AB2_LCD_DRILLS-20X4
 Sc 0
 AR 
@@ -275,7 +259,6 @@ Dr 3.2 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -46.5 27.5
-.LocalClearance 1.2
 $EndPAD
 $PAD
 Sh "1" C 3.2 3.2 0 0 0
@@ -283,7 +266,6 @@ Dr 3.2 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 46.5 27.5
-.LocalClearance 1.2
 $EndPAD
 $PAD
 Sh "1" C 3.2 3.2 0 0 0
@@ -291,7 +273,6 @@ Dr 3.2 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 46.5 -27.5
-.LocalClearance 1.2
 $EndPAD
 $PAD
 Sh "1" C 3.2 3.2 0 0 0
@@ -299,7 +280,6 @@ Dr 3.2 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -46.5 -27.5
-.LocalClearance 1.2
 $EndPAD
 $EndMODULE AB2_LCD_DRILLS-20X4
 $EndLIBRARY

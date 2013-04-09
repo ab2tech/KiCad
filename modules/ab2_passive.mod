@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  4/2/2013 12:49:34 AM
+PCBNEW-LibModule-V1 4/9/2013 12:48:59 AM
 # encoding utf-8
 Units mm
 $INDEX
@@ -7,7 +7,7 @@ AB2_PANASONIC-C
 AB2_POT_TRIM
 $EndINDEX
 $MODULE AB2_0805
-Po 0 0 0 15 514BCD2D 00000000 ~~
+Po 0 0 0 15 5163ABCB 00000000 ~~
 Li AB2_0805
 Sc 0
 AR 
@@ -22,7 +22,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -0.9 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "2" R 0.8 1.2 0 0 0
@@ -30,11 +29,10 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0.9 0
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_0805
 $MODULE AB2_PANASONIC-C
-Po 0 0 0 15 515A6C1A 00000000 ~~
+Po 0 0 0 15 5163ABCB 00000000 ~~
 Li AB2_PANASONIC-C
 Sc 0
 AR 
@@ -54,7 +52,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -2.15 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "2" R 2.8 1.6 0 0 1800
@@ -62,11 +59,10 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 2.15 0
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_PANASONIC-C
 $MODULE AB2_POT_TRIM
-Po 0 0 0 15 51590D2E 00000000 ~~
+Po 0 0 0 15 5163ABCB 00000000 ~~
 Li AB2_POT_TRIM
 Sc 0
 AR 
@@ -182,7 +178,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0 -1.55
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "1" R 1.2 1.4 0 0 0
@@ -190,7 +185,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -1.1 1.9
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "3" R 1.2 1.4 0 0 0
@@ -198,7 +192,6 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 1.1 1.9
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_POT_TRIM
 $EndLIBRARY
