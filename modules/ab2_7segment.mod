@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  4/8/2013 8:27:49 PM
+PCBNEW-LibModule-V1  4/8/2013 10:55:47 PM
 # encoding utf-8
 Units mm
 $INDEX
@@ -6,13 +6,15 @@ AB2_7SEG_5IN_H
 AB2_7SEG_5IN_V
 $EndINDEX
 $MODULE AB2_7SEG_5IN_H
-Po 0 0 0 15 51622FEC 00000000 ~~
+Po 0 0 0 15 51637EFC 00000000 ~~
 Li AB2_7SEG_5IN_H
 Sc 0
 AR 
 Op 0 0 0
 T0 0 -5.08 0.8128 0.8128 0 0.0762 N V 21 N "AB2_7SEG_5IN_H"
 T1 0 5.08 0.8128 0.8128 0 0.0762 N V 21 N "VAL**"
+T2 17 0 1.5 1.5 0 0.3 N V 21 N "K-"
+T2 -17 0 1.5 1.5 0 0.3 N V 21 N "A+"
 T2 0 0 2.54 2.54 1800 0.254 N V 21 N "TOP_VIEW"
 DC 0 0 0.02 0.09 0.15 21
 DS 0 -6 -18.63 -6 0.15 21
@@ -40,7 +42,6 @@ Dr 0.6096 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 17 2
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "2" C 0.8128 0.8128 0 0 0
@@ -48,7 +49,6 @@ Dr 0.6096 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 17 -2
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "1" C 0.8128 0.8128 0 0 0
@@ -56,7 +56,6 @@ Dr 0.6096 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -17 2
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "3" C 2.7 2.7 0 0 0
@@ -64,7 +63,6 @@ Dr 2.7 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 21.75 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "3" C 2.7 2.7 0 0 0
@@ -72,7 +70,6 @@ Dr 2.7 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -21.75 0
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "1" C 0.8128 0.8128 0 0 0
@@ -80,17 +77,18 @@ Dr 0.6096 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -17 -2
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_7SEG_5IN_H
 $MODULE AB2_7SEG_5IN_V
-Po 0 0 0 15 51622D98 00000000 ~~
+Po 0 0 0 15 5163913F 00000000 ~~
 Li AB2_7SEG_5IN_V
 Sc 0
 AR 
 Op 0 0 0
 T0 0 -12.7 0.8128 0.8128 0 0.0762 N V 21 N "AB2_7SEG_5IN_V"
 T1 0 12.7 0.8128 0.8128 0 0.0762 N V 21 N "VAL**"
+T2 0 -17 1.5 1.5 0 0.3 N V 21 N "K-"
+T2 0 17 1.5 1.5 0 0.3 N V 21 N "A+"
 T2 0 0 2.54 2.54 900 0.254 N V 21 N "TOP_VIEW"
 DC 0 0 -0.09 -0.02 0.15 21
 DS 6 0 6 18.63 0.15 21
@@ -118,7 +116,6 @@ Dr 0.6096 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -2 -17
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "2" C 0.8128 0.8128 0 0 900
@@ -126,7 +123,6 @@ Dr 0.6096 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2 -17
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "1" C 0.8128 0.8128 0 0 900
@@ -134,7 +130,6 @@ Dr 0.6096 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -2 17
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "3" C 2.7 2.7 0 0 900
@@ -142,7 +137,6 @@ Dr 2.7 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 -21.75
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "3" C 2.7 2.7 0 0 900
@@ -150,7 +144,6 @@ Dr 2.7 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 21.75
-.LocalClearance 0.127
 $EndPAD
 $PAD
 Sh "1" C 0.8128 0.8128 0 0 900
@@ -158,7 +151,6 @@ Dr 0.6096 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2 17
-.LocalClearance 0.127
 $EndPAD
 $EndMODULE AB2_7SEG_5IN_V
 $EndLIBRARY
