@@ -1,0 +1,19 @@
+EESchema-LIBRARY Version 2.3  Date: 4/19/2013 7:28:38 PM
+#encoding utf-8
+#
+# AB2_D
+#
+DEF AB2_D D 0 0 N N 1 F N
+F0 "D" 0 -100 60 H V C CNN
+F1 "AB2_D" 0 100 60 H V C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+P 3 0 1 0  50 50  50 -50  50 0 N
+P 5 0 1 0  -50 50  -50 -50  50 0  -50 50  -50 0 F
+X A 1 -150 0 100 R 50 50 1 1 P
+X K 2 150 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
