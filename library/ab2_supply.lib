@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: 4/19/2013 10:54:13 PM
+EESchema-LIBRARY Version 2.3  Date: 4/23/2013 10:27:12 PM
 #encoding utf-8
 #
 # AB2_12V
@@ -70,6 +70,20 @@ P 2 0 1 0  -50 0  50 0 N
 P 2 0 1 0  -35 -15  35 -15 N
 P 2 0 1 0  -20 -30  20 -30 N
 P 2 0 1 0  -5 -45  5 -45 N
+ENDDRAW
+ENDDEF
+#
+# AB2_MSP3V6
+#
+DEF ~AB2_MSP3V6 #PWR 0 0 N N 1 F P
+F0 "#PWR" 0 300 60 H I C CNN
+F1 "AB2_MSP3V6" 0 200 60 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 100 60 0 0 0 MSP3V6  Normal 0 C C
+X 3V6 1 0 0 0 U 20 20 0 0 W N
+P 5 0 1 0  -50 0  0 50  50 0  -50 0  0 0 F
 ENDDRAW
 ENDDEF
 #
