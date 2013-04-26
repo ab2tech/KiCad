@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.3  Date: 4/25/2013 11:21:20 PM
+#encoding utf-8
+#
+# AB2_XTAL
+#
+DEF AB2_XTAL XTAL 0 0 N N 1 F N
+F0 "XTAL" 0 -100 60 H V C CNN
+F1 "AB2_XTAL" 0 100 60 H V C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+P 2 0 1 0  -50 40  -50 -40 N
+P 2 0 1 0  50 40  50 -40 N
+P 5 0 1 0  30 50  -30 50  -30 -50  30 -50  30 50 N
+X ~ 1 -150 0 100 R 50 50 1 1 P
+X ~ 2 150 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
