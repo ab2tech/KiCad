@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  7/8/2013 10:38:50 PM
+PCBNEW-LibModule-V1  7/26/2013 9:56:47 PM
 # encoding utf-8
 Units mm
 $INDEX
@@ -56,7 +56,7 @@ Po 3.2512 2.2606
 $EndPAD
 $EndMODULE AB2_PUSHBUTTON_6MM_PTH_MOMENTARY
 $MODULE AB2_PUSHBUTTON_8MM_PTH_LOCK
-Po 0 0 0 15 51DB84F3 00000000 ~~
+Po 0 0 0 15 51F336EB 00000000 ~~
 Li AB2_PUSHBUTTON_8MM_PTH_LOCK
 Sc 0
 AR 
@@ -82,42 +82,42 @@ DA -3.5 -3.5 -4 -3.5 900 0.127 21
 DA 3.5 -3.5 3.5 -4 900 0.127 21
 DA 3.5 3.5 4 3.5 900 0.127 21
 $PAD
-Sh "C" C 1.2 1.2 0 0 0
+Sh "C" C 1.4 1.4 0 0 0
 Dr 0.8 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -2.5 -3
 $EndPAD
 $PAD
-Sh "2" C 1.2 1.2 0 0 0
+Sh "2" C 1.4 1.4 0 0 0
 Dr 0.8 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 -3
 $EndPAD
 $PAD
-Sh "1" C 1.2 1.2 0 0 0
+Sh "1" C 1.4 1.4 0 0 0
 Dr 0.8 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 2.5 -3
 $EndPAD
 $PAD
-Sh "1" C 1.2 1.2 0 0 0
+Sh "1" C 1.4 1.4 0 0 0
 Dr 0.8 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po -2.5 3
 $EndPAD
 $PAD
-Sh "2" C 1.2 1.2 0 0 0
+Sh "2" C 1.4 1.4 0 0 0
 Dr 0.8 0 0
 At STD N 00E0FFFF
 Ne 0 ""
 Po 0 3
 $EndPAD
 $PAD
-Sh "C" C 1.2 1.2 0 0 0
+Sh "C" C 1.4 1.4 0 0 0
 Dr 0.8 0 0
 At STD N 00E0FFFF
 Ne 0 ""
