@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: 7/18/2013 11:57:49 PM
+EESchema-LIBRARY Version 2.3  Date: 11/18/2013 10:12:41 PM
 #encoding utf-8
 #
 # AB2_D
@@ -13,17 +13,6 @@ P 3 0 1 0  50 50  50 -50  50 0 N
 P 5 0 1 0  -50 50  -50 -50  50 0  -50 50  -50 0 F
 X A 1 -150 0 100 R 50 50 1 1 P
 X K 2 150 0 100 L 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
-# TVS
-#
-DEF TVS D 0 50 Y Y 1 F N
-F0 "D" 0 0 60 H V C CNN
-F1 "TVS" 0 0 60 H V C CNN
-F2 "~" 0 0 60 H V C CNN
-F3 "~" 0 0 60 H V C CNN
-DRAW
 ENDDRAW
 ENDDEF
 #
