@@ -1,11 +1,5 @@
-*
-!3d_models
-!library
-!modules
-!template
-!LICENSE.md
-!README.md
-!*ab2*
-!*AB2*
 *.bak
 *.bck
+demos
+doc
+internat
