@@ -176,7 +176,7 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $SHAPE3D
-Na "../../../../Program Files (x86)/KiCad/share/3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 0
@@ -219,13 +219,13 @@ Ne 0 ""
 Po 1.27 0
 $EndPAD
 $SHAPE3D
-Na "../../../../Program Files (x86)/KiCad/share/3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
 Sc 0.3937 0.3937 0.3937
 Of -0.05 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../../../../Program Files (x86)/KiCad/share/3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0.05 0 0
 Ro 0 0 0
@@ -987,37 +987,37 @@ Ne 0 ""
 Po 6.35 0
 $EndPAD
 $SHAPE3D
-Na "../../../../Program Files (x86)/KiCad/share/3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
 Sc 0.3937 0.3937 0.3937
 Of -0.25 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../../../../Program Files (x86)/KiCad/share/3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
 Sc 0.3937 0.3937 0.3937
 Of -0.15 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../../../../Program Files (x86)/KiCad/share/3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
 Sc 0.3937 0.3937 0.3937
 Of -0.05 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../../../../Program Files (x86)/KiCad/share/3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0.05 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../../../../Program Files (x86)/KiCad/share/3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0.15 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../../../../Program Files (x86)/KiCad/share/3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0.25 0 0
 Ro 0 0 0
