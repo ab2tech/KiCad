@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  7/14/2013 3:53:54 PM
+PCBNEW-LibModule-V1  11/25/2013 1:35:47 PM
 # encoding utf-8
 Units mm
 $INDEX
@@ -175,6 +175,12 @@ At STD N 00E0FFFF
 Ne 0 ""
 Po 0 0
 $EndPAD
+$SHAPE3D
+Na "../../../../Program Files (x86)/KiCad/share/3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Sc 0.3937 0.3937 0.3937
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
 $EndMODULE AB2_HDR_M01-1V
 $MODULE AB2_HDR_M02-1V
 Po 0 0 0 15 51E30E27 00000000 ~~
@@ -212,6 +218,18 @@ At STD N 00E0FFFF
 Ne 0 ""
 Po 1.27 0
 $EndPAD
+$SHAPE3D
+Na "../../../../Program Files (x86)/KiCad/share/3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Sc 0.3937 0.3937 0.3937
+Of -0.05 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$SHAPE3D
+Na "../../../../Program Files (x86)/KiCad/share/3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Sc 0.3937 0.3937 0.3937
+Of 0.05 0 0
+Ro 0 0 0
+$EndSHAPE3D
 $EndMODULE AB2_HDR_M02-1V
 $MODULE AB2_HDR_M03-1V
 Po 0 0 0 15 51E30E46 00000000 ~~
@@ -968,6 +986,42 @@ At STD N 00E0FFFF
 Ne 0 ""
 Po 6.35 0
 $EndPAD
+$SHAPE3D
+Na "../../../../Program Files (x86)/KiCad/share/3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Sc 0.3937 0.3937 0.3937
+Of -0.25 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$SHAPE3D
+Na "../../../../Program Files (x86)/KiCad/share/3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Sc 0.3937 0.3937 0.3937
+Of -0.15 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$SHAPE3D
+Na "../../../../Program Files (x86)/KiCad/share/3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Sc 0.3937 0.3937 0.3937
+Of -0.05 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$SHAPE3D
+Na "../../../../Program Files (x86)/KiCad/share/3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Sc 0.3937 0.3937 0.3937
+Of 0.05 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$SHAPE3D
+Na "../../../../Program Files (x86)/KiCad/share/3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Sc 0.3937 0.3937 0.3937
+Of 0.15 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$SHAPE3D
+Na "../../../../Program Files (x86)/KiCad/share/3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Sc 0.3937 0.3937 0.3937
+Of 0.25 0 0
+Ro 0 0 0
+$EndSHAPE3D
 $EndMODULE AB2_HDR_M06-1V
 $MODULE AB2_HDR_M07-1V
 Po 0 0 0 15 51E30F1C 00000000 ~~
