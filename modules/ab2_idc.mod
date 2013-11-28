@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  7/14/2013 2:25:45 PM
+PCBNEW-LibModule-V1  11/27/2013 1:15:20 PM
 # encoding utf-8
 Units mm
 $INDEX
