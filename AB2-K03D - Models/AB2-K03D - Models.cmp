@@ -1,0 +1,52 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 11/26/2013 9:57:00 AM
+
+BeginCmp
+TimeStamp = /529171FF;
+Reference = C1;
+ValeurCmp = 0.1u;
+IdModule  = AB2_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /529172DA;
+Reference = C2;
+ValeurCmp = 0.47u;
+IdModule  = AB2_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /528C3F15;
+Reference = DRV1;
+ValeurCmp = AB2_DRV8828/9;
+IdModule  = AB2_TSSOP28-PWP2;
+EndCmp
+
+BeginCmp
+TimeStamp = /528C3F24;
+Reference = DRV2;
+ValeurCmp = AB2_DRV8828/9;
+IdModule  = AB2_TSSOP28-PWP2;
+EndCmp
+
+BeginCmp
+TimeStamp = /528EEA7B;
+Reference = HDR1;
+ValeurCmp = AB2_HDR06-1_SBW;
+IdModule  = AB2_HDR_M06-1V;
+EndCmp
+
+BeginCmp
+TimeStamp = /528C2034;
+Reference = MSP1;
+ValeurCmp = MSP430F5510_48;
+IdModule  = AB2_LQFP48;
+EndCmp
+
+BeginCmp
+TimeStamp = /5294C4D7;
+Reference = X1;
+ValeurCmp = AB2_AKZ500_02;
+IdModule  = AB2_AKZ500_02;
+EndCmp
+
+EndListe

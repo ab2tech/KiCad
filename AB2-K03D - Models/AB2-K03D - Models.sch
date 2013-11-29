@@ -1,0 +1,268 @@
+EESchema Schematic File Version 2
+LIBS:ab2_7segment
+LIBS:ab2_audio
+LIBS:ab2_buffer
+LIBS:ab2_capacitor
+LIBS:ab2_connectivity
+LIBS:ab2_diode
+LIBS:ab2_gpio_expansion
+LIBS:ab2_header
+LIBS:ab2_idc
+LIBS:ab2_input_devices
+LIBS:ab2_jumper
+LIBS:ab2_lcd
+LIBS:ab2_led
+LIBS:ab2_pot
+LIBS:ab2_power
+LIBS:ab2_regulator
+LIBS:ab2_relay
+LIBS:ab2_resistor
+LIBS:ab2_stepper
+LIBS:ab2_supply
+LIBS:ab2_terminal_block
+LIBS:ab2_test
+LIBS:ab2_transistor
+LIBS:ab2_uC
+LIBS:ab2_usb
+LIBS:ab2_xtal
+LIBS:AB2-K013 - Stepper Driver 5A-cache
+EELAYER 27 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date "26 nov 2013"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L MSP430F5510_48 MSP1
+U 1 1 528C2034
+P 3150 2750
+F 0 "MSP1" H 3150 1500 60  0000 C CNN
+F 1 "MSP430F5510_48" H 3150 4000 60  0000 C CNN
+F 2 "~" H 3150 2750 60  0000 C CNN
+F 3 "~" H 3150 2750 60  0000 C CNN
+	1    3150 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L AB2_DRV8828/9 DRV1
+U 1 1 528C3F15
+P 7150 2450
+F 0 "DRV1" H 7400 1700 60  0000 C CNN
+F 1 "AB2_DRV8828/9" H 7150 3200 60  0000 C CNN
+F 2 "~" H 7200 2500 60  0000 C CNN
+F 3 "~" H 7200 2500 60  0000 C CNN
+	1    7150 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L AB2_DRV8828/9 DRV2
+U 1 1 528C3F24
+P 7150 4450
+F 0 "DRV2" H 7400 3700 60  0000 C CNN
+F 1 "AB2_DRV8828/9" H 7150 5200 60  0000 C CNN
+F 2 "~" H 7200 4500 60  0000 C CNN
+F 3 "~" H 7200 4500 60  0000 C CNN
+	1    7150 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L AB2_GND #PWR01
+U 1 1 528EE639
+P 6550 3300
+F 0 "#PWR01" H 6550 3100 60  0001 C CNN
+F 1 "AB2_GND" H 6550 3200 60  0001 C CNN
+F 2 "~" H 6550 3300 60  0000 C CNN
+F 3 "~" H 6550 3300 60  0000 C CNN
+	1    6550 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L AB2_GND #PWR02
+U 1 1 528EE668
+P 6550 5300
+F 0 "#PWR02" H 6550 5100 60  0001 C CNN
+F 1 "AB2_GND" H 6550 5200 60  0001 C CNN
+F 2 "~" H 6550 5300 60  0000 C CNN
+F 3 "~" H 6550 5300 60  0000 C CNN
+	1    6550 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L AB2_HDR06-1_SBW HDR1
+U 1 1 528EEA7B
+P 5800 700
+F 0 "HDR1" H 5800 100 60  0000 C CNN
+F 1 "AB2_HDR06-1_SBW" H 5800 850 60  0000 C CNN
+F 2 "~" H 5400 700 60  0000 C CNN
+F 3 "~" H 5400 700 60  0000 C CNN
+	1    5800 700 
+	1    0    0    -1  
+$EndComp
+Text Label 5400 700  2    60   ~ 0
+TEST/SBWTCK
+Text Label 5400 800  2    60   ~ 0
+RST/NMI/SBWTDIO
+Text Label 5400 900  2    60   ~ 0
+TXD
+Text Label 5400 1000 2    60   ~ 0
+RXD
+$Comp
+L AB2_PRG3V6 #PWR?
+U 1 1 529170AF
+P 5250 1100
+F 0 "#PWR?" H 5250 1400 60  0001 C CNN
+F 1 "AB2_PRG3V6" H 5250 1300 60  0001 C CNN
+F 2 "" H 5250 1100 60  0000 C CNN
+F 3 "" H 5250 1100 60  0000 C CNN
+	1    5250 1100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L AB2_GND #PWR?
+U 1 1 529170C7
+P 5400 1250
+F 0 "#PWR?" H 5400 1050 60  0001 C CNN
+F 1 "AB2_GND" H 5400 1150 60  0001 C CNN
+F 2 "" H 5400 1250 60  0000 C CNN
+F 3 "" H 5400 1250 60  0000 C CNN
+	1    5400 1250
+	1    0    0    -1  
+$EndComp
+Text Label 4650 1700 0    60   ~ 0
+TEST/SBWTCK
+Text Label 4650 1600 0    60   ~ 0
+RST/NMI/SBWTDIO
+Text Label 4650 3000 0    60   ~ 0
+RXD
+Text Label 4650 3100 0    60   ~ 0
+TXD
+Text Label 4650 2200 0    60   ~ 0
+VUSB
+Text Label 4650 2300 0    60   ~ 0
+VBUS
+Text Label 4650 2400 0    60   ~ 0
+D-
+Text Label 4650 2500 0    60   ~ 0
+PUR
+Text Label 4650 2600 0    60   ~ 0
+D+
+$Comp
+L AB2_C C1
+U 1 1 529171FF
+P 750 950
+F 0 "C1" H 750 850 60  0000 C CNN
+F 1 "0.1u" H 750 1050 60  0000 C CNN
+F 2 "" H 750 950 60  0000 C CNN
+F 3 "" H 750 950 60  0000 C CNN
+	1    750  950 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L AB2_GND #PWR?
+U 1 1 52917229
+P 750 1150
+F 0 "#PWR?" H 750 950 60  0001 C CNN
+F 1 "AB2_GND" H 750 1050 60  0001 C CNN
+F 2 "" H 750 1150 60  0000 C CNN
+F 3 "" H 750 1150 60  0000 C CNN
+	1    750  1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L AB2_MSP3V6 #PWR?
+U 1 1 5291725E
+P 750 750
+F 0 "#PWR?" H 750 1050 60  0001 C CNN
+F 1 "AB2_MSP3V6" H 750 950 60  0001 C CNN
+F 2 "" H 750 750 60  0000 C CNN
+F 3 "" H 750 750 60  0000 C CNN
+	1    750  750 
+	1    0    0    -1  
+$EndComp
+Text Label 800  800  0    60   ~ 0
+AVCC1
+Wire Wire Line
+	6550 3000 6550 3300
+Connection ~ 6550 3100
+Wire Wire Line
+	7150 3250 6550 3250
+Connection ~ 6550 3250
+Wire Wire Line
+	6550 5000 6550 5300
+Connection ~ 6550 5100
+Wire Wire Line
+	7150 5250 6550 5250
+Connection ~ 6550 5250
+Wire Wire Line
+	5250 1100 5400 1100
+Wire Wire Line
+	5400 1200 5400 1250
+Wire Wire Line
+	750  1100 750  1150
+Wire Wire Line
+	750  750  750  800 
+Wire Wire Line
+	750  800  800  800 
+Text Label 1650 2200 2    60   ~ 0
+AVCC1
+$Comp
+L AB2_C C2
+U 1 1 529172DA
+P 1150 950
+F 0 "C2" H 1150 850 60  0000 C CNN
+F 1 "0.47u" H 1150 1050 60  0000 C CNN
+F 2 "" H 1150 950 60  0000 C CNN
+F 3 "" H 1150 950 60  0000 C CNN
+	1    1150 950 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L AB2_GND #PWR?
+U 1 1 529172E0
+P 1150 1150
+F 0 "#PWR?" H 1150 950 60  0001 C CNN
+F 1 "AB2_GND" H 1150 1050 60  0001 C CNN
+F 2 "" H 1150 1150 60  0000 C CNN
+F 3 "" H 1150 1150 60  0000 C CNN
+	1    1150 1150
+	1    0    0    -1  
+$EndComp
+Text Label 1200 800  0    60   ~ 0
+VCORE
+Wire Wire Line
+	1150 1100 1150 1150
+Wire Wire Line
+	1150 800  1200 800 
+Text Label 1650 2800 2    60   ~ 0
+VCORE
+$Comp
+L AB2_AKZ500_02 X1
+U 1 1 5294C4D7
+P 2700 900
+F 0 "X1" H 2400 900 60  0000 C CNN
+F 1 "AB2_AKZ500_02" H 2700 1050 60  0001 C CNN
+F 2 "~" H 2700 900 60  0000 C CNN
+F 3 "~" H 2700 900 60  0000 C CNN
+	1    2700 900 
+	1    0    0    -1  
+$EndComp
+$Comp
+L AB2_AKZ500_02 X1
+U 2 1 5294C4E6
+P 2700 1050
+F 0 "X1" H 2400 1050 60  0000 C CNN
+F 1 "AB2_AKZ500_02" H 2700 1200 60  0001 C CNN
+F 2 "~" H 2700 1050 60  0000 C CNN
+F 3 "~" H 2700 1050 60  0000 C CNN
+	2    2700 1050
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
