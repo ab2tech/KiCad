@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1 4/9/2013 12:48:59 AM
+PCBNEW-LibModule-V1  11/30/2013 10:28:59 PM
 # encoding utf-8
 Units mm
 $INDEX
@@ -353,5 +353,11 @@ At SMD N 00888000
 Ne 0 ""
 Po -2.75 -4.3
 $EndPAD
+$SHAPE3D
+Na "../3d_models/ab2_lqfp/AB2_LQFP48.wrl"
+Sc 0.3937 0.3937 0.3937
+Of 0 0 0
+Ro 0 0 -90
+$EndSHAPE3D
 $EndMODULE AB2_LQFP48
 $EndLIBRARY
