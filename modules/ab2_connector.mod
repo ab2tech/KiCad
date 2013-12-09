@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  12/8/2013 2:53:20 PM
+PCBNEW-LibModule-V1  12/8/2013 10:05:34 PM
 # encoding utf-8
 Units mm
 $INDEX
@@ -452,7 +452,7 @@ $EndPAD
 $SHAPE3D
 Na "../3d_models/ab2_connector/AB2_RJ45_RA_LEDS.wrl"
 Sc 0.3937 0.3937 0.3937
-Of 0 0 0
+Of 0 0.025 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE AB2_RJ45_RA_LEDS
