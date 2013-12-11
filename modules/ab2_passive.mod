@@ -204,14 +204,14 @@ Sh "1" R 0.9 1.3 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1 0
+Po -1.1 0
 $EndPAD
 $PAD
 Sh "2" R 0.9 1.3 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1 0
+Po 1.1 0
 $EndPAD
 $SHAPE3D
 Na "../3d_models/ab2_passive/AB2_0805_C_125.wrl"
@@ -241,14 +241,14 @@ Sh "1" R 0.9 1.3 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1 0
+Po -1.1 0
 $EndPAD
 $PAD
 Sh "2" R 0.9 1.3 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1 0
+Po 1.1 0
 $EndPAD
 $SHAPE3D
 Na "../3d_models/ab2_passive/AB2_0805_C_60.wrl"
@@ -278,14 +278,14 @@ Sh "1" R 0.9 1.3 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1 0
+Po -1.1 0
 $EndPAD
 $PAD
 Sh "2" R 0.9 1.3 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1 0
+Po 1.1 0
 $EndPAD
 $SHAPE3D
 Na "../3d_models/ab2_passive/AB2_0805_C_80.wrl"
@@ -315,14 +315,14 @@ Sh "1" R 0.9 1.3 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1 0
+Po -1.1 0
 $EndPAD
 $PAD
 Sh "2" R 0.9 1.3 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1 0
+Po 1.1 0
 $EndPAD
 $EndMODULE AB2_0805_LED
 $MODULE AB2_0805_R
