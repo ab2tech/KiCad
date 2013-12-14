@@ -122,7 +122,7 @@ Ne 0 ""
 Po 1.99898 -4.9
 $EndPAD
 $SHAPE3D
-Na "../../../Program Files (x86)/KiCad/share/3d_models/ab2_usb/AB2_USB_MICRO_SMD.wrl"
+Na "../3d_models/ab2_usb/AB2_USB_MICRO_SMD.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 0
@@ -315,7 +315,7 @@ Ne 0 ""
 Po 1.6 -8.5
 $EndPAD
 $SHAPE3D
-Na "../../../Program Files (x86)/KiCad/share/3d_models/ab2_usb/AB2_MINI_USB_SMD.wrl"
+Na "../3d_models/ab2_usb/AB2_USB_MINI_SMD.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 0
