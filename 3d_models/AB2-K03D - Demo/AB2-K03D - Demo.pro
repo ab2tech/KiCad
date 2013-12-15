@@ -1,4 +1,4 @@
-update=12/9/2013 11:25:25 PM
+update=12/14/2013 7:58:15 PM
 version=1
 last_client=pcbnew
 [cvpcb]
@@ -77,8 +77,8 @@ version=1
 version=1
 LastNetListRead=
 UseCmpFile=1
-PadDrill=0.000000000000
-PadDrillOvalY=0.000000000000
+PadDrill=0.900000000000
+PadDrillOvalY=0.900000000000
 PadSizeH=0.900000000000
 PadSizeV=0.900000000000
 PcbTextSizeV=1.500000000000
@@ -131,3 +131,4 @@ LibName34=sockets
 LibName35=valves
 LibName36=ab2_connector
 LibName37=ab2_vssop
+LibName38=ab2_heatsink
