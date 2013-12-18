@@ -331,7 +331,7 @@ Ne 0 ""
 Po 3.048 -96.52
 $EndPAD
 $SHAPE3D
-Na "../../../Program Files (x86)/KiCad/share/3d_models/ab2_holesnpoles/AB2_FR4_1.96x3.92INx1.6MM.wrl"
+Na "../3d_models/ab2_holesnpoles/AB2_FR4_1.96x3.92INx1.6MM.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 0
