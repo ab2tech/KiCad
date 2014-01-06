@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  12/17/2013 10:50:53 PM
+PCBNEW-LibModule-V1  12/31/2013 11:53:50 AM
 # encoding utf-8
 Units mm
 $INDEX
@@ -183,7 +183,7 @@ $SHAPE3D
 Na "../3d_models/ab2_input_devices/AB2_DIP_SW04_PIANO_PTH.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
-Ro 0 0 0
+Ro 0 0 180
 $EndSHAPE3D
 $EndMODULE AB2_DIP_SW_04_PIANO_PTH
 $MODULE AB2_PB_MOM_6MM_PTH_BLK
@@ -235,7 +235,7 @@ Ne 0 ""
 Po 3.2512 2.2606
 $EndPAD
 $SHAPE3D
-Na "C:/Program Files (x86)/KiCad/share/3d_models/ab2_input_devices/AB2_PB_MOM_6MM_PTH_BLK.wrl"
+Na "../3d_models/ab2_input_devices/AB2_PB_MOM_6MM_PTH_BLK.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 90
@@ -396,5 +396,11 @@ At STD N 00E0FFFF
 Ne 0 ""
 Po 5.7 0
 $EndPAD
+$SHAPE3D
+Na "../3d_models/ab2_input_devices/AB2_ROT_ENC_W_SW.wrl"
+Sc 0.01573 0.01573 0.01573
+Of 0 0 0
+Ro 0 0 180
+$EndSHAPE3D
 $EndMODULE AB2_ROTARY_ENCODER_W_SWITCH
 $EndLIBRARY
