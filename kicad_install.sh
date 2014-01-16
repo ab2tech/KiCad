@@ -162,7 +162,9 @@ sync()
   scriptecho "rsync -aP \"${KICAD_INSTALL_PATH_ORIG}/\" \"${AB2_KICAD_PATH}/.\""
   prompt "Continue [y/n]?"
   if [ -z "$NOACT" ]; then
-    rsync -aP "${KICAD_INSTALL_PATH_ORIG}/" "${AB2_KICAD_PATH}/." &> /dev/null \
+    rsync -aP --exclude='template/kicad.pro' \
+      "${KICAD_INSTALL_PATH_ORIG}/" \
+      "${AB2_KICAD_PATH}/." &> /dev/null \
       || exit $?
   fi
 }
