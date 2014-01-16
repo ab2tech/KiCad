@@ -130,7 +130,7 @@ backup()
   scriptecho "mv \"$KICAD_INSTALL_PATH\" \"${KICAD_INSTALL_PATH_ORIG}\""
   prompt "Continue [y/n]?"
   if [ -z "$NOACT" ]; then
-    mv "$KICAD_INSTALL_PATH" "${KICAD_INSTALL_PATH_ORIG}" || exit $?
+    sudo mv "$KICAD_INSTALL_PATH" "${KICAD_INSTALL_PATH_ORIG}" || exit $?
   fi
 }
 
@@ -151,7 +151,7 @@ link()
   scriptecho "ln -s \"$AB2_KICAD_PATH\" \"$KICAD_INSTALL_PATH\""
   prompt "Continue [y/n]?"
   if [ -z "$NOACT" ]; then
-    ln -s "$AB2_KICAD_PATH" "$KICAD_INSTALL_PATH" || exit $?
+    sudo ln -s "$AB2_KICAD_PATH" "$KICAD_INSTALL_PATH" || exit $?
   fi
 }
 
@@ -162,7 +162,9 @@ sync()
   scriptecho "rsync -aP \"${KICAD_INSTALL_PATH_ORIG}/\" \"${AB2_KICAD_PATH}/.\""
   prompt "Continue [y/n]?"
   if [ -z "$NOACT" ]; then
-    rsync -aP "${KICAD_INSTALL_PATH_ORIG}/" "${AB2_KICAD_PATH}/." &> /dev/null \
+    rsync -aP --exclude='template/kicad.pro' \
+      "${KICAD_INSTALL_PATH_ORIG}/" \
+      "${AB2_KICAD_PATH}/." &> /dev/null \
       || exit $?
   fi
 }
