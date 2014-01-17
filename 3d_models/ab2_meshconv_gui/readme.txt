@@ -1,5 +1,7 @@
 Install Python/PyGTK and all dependencies
-  Links coming...
+  http://www.python.org/
+  http://ftp.gnome.org/pub/GNOME/binaries/win32/pygtk/2.24/
+  	
 Download meshconv and save to GUI script directory
   http://www.cs.princeton.edu/~min/meshconv/
   
