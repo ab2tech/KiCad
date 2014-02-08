@@ -2403,7 +2403,7 @@ Ne 0 ""
 Po -2.6 3.7
 $EndPAD
 $SHAPE3D
-Na "../3d_models/ab2_tssop/AB2_TSSOP30.wrl"
+Na "../3d_models/ab2_tssop/AB2_TSSOP30_W.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 180
