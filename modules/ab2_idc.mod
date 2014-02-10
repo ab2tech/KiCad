@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  2/5/2014 10:11:14 PM
+PCBNEW-LibModule-V1  2/8/2014 9:57:45 PM
 # encoding utf-8
 Units mm
 $INDEX
@@ -635,6 +635,12 @@ At STD N 00E0FFFF
 Ne 0 ""
 Po 5.08 -1.27
 $EndPAD
+$SHAPE3D
+Na "../3d_models/ab2_idc/AB2_HDR_M05-2V-S-TE.wrl"
+Sc 0.3937 0.3937 0.3937
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
 $EndMODULE AB2_HDR_M05-2V-S
 $MODULE AB2_HDR_M06-2V
 Po 0 0 0 15 51E2FAE1 00000000 ~~
