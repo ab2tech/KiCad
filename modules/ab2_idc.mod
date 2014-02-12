@@ -636,7 +636,7 @@ Ne 0 ""
 Po 5.08 -1.27
 $EndPAD
 $SHAPE3D
-Na "../3d_models/ab2_idc/AB2_HDR_M05-2V-S-TE.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M05-2V-S-3M.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 0
