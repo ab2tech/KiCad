@@ -5662,7 +5662,7 @@ Ne 0 ""
 Po -5.25 -2.8
 $EndPAD
 $SHAPE3D
-Na "../3d_models/ab2_tssop/AB2_TSSOP44.wrl"
+Na "../3d_models/ab2_tssop/AB2_TSSOP44_0p50P.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 180
@@ -6082,7 +6082,7 @@ Ne 0 ""
 Po -6 -2.8
 $EndPAD
 $SHAPE3D
-Na "../3d_models/ab2_tssop/AB2_TSSOP50.wrl"
+Na "../3d_models/ab2_tssop/AB2_TSSOP50_0p50P.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 180
