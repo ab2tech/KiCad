@@ -33,6 +33,7 @@ Options:
                   | environment variables. Please note that this path will be
                   | overwritten.
 -f, --force       | Force overwrite when making KiCad install path backup.
+-h, --help        | Print this usage information
 -n, --no-action   | Don't do anything, just show what would be done
 -s, --no-sync     | Don't sync the KiCad install path to the AB2 KiCad path
 -y, --yes         | Yes through all prompts
@@ -61,6 +62,7 @@ for arg; do
   fi
   case "$arg" in
     --env) ENVPATH=true ;;
+    --help|-[hH]*) printUsage && exit 0 ;;
     --force) FORCE=true ;;
     --no-action) NOACT=true ;;
     --no-sync) NOSYNC=true ;;
