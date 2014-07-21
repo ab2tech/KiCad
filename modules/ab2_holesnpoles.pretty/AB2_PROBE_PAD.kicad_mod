@@ -1,0 +1,9 @@
+(module AB2_PROBE_PAD (layer F.Cu) (tedit 52B3259A)
+  (fp_text reference AB2_PROBE_PAD (at -1.27 -245.11) (layer F.SilkS) hide
+    (effects (font (size 0.8128 0.8128) (thickness 0.0762)))
+  )
+  (fp_text value VAL** (at 0 246.38) (layer F.SilkS) hide
+    (effects (font (size 0.8128 0.8128) (thickness 0.0762)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 1.6764 1.6764) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
+)

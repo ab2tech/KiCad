@@ -1,0 +1,16 @@
+(module AB2_STANDOFF_3.92x3.92_BOARD_SQUARE_CORNERS (layer F.Cu) (tedit 5174A74C)
+  (fp_text reference AB2_STANDOFF_3.92x3.92_BOARD_SQUARE_CORNERS (at 49.784 -51.054) (layer F.SilkS) hide
+    (effects (font (size 0.8128 0.8128) (thickness 0.0762)))
+  )
+  (fp_text value VAL** (at 49.784 -48.514) (layer F.SilkS) hide
+    (effects (font (size 0.8128 0.8128) (thickness 0.0762)))
+  )
+  (fp_line (start 0 0) (end 99.568 0) (layer F.SilkS) (width 0.127))
+  (fp_line (start 99.568 0) (end 99.568 -99.568) (layer F.SilkS) (width 0.127))
+  (fp_line (start 99.568 -99.568) (end 0 -99.568) (layer F.SilkS) (width 0.127))
+  (fp_line (start 0 -99.568) (end 0 0) (layer F.SilkS) (width 0.127))
+  (pad 1 thru_hole circle (at 3.048 -3.048) (size 3.302 3.302) (drill 3.302) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole circle (at 96.52 -3.048) (size 3.302 3.302) (drill 3.302) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole circle (at 96.52 -96.52) (size 3.302 3.302) (drill 3.302) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole circle (at 3.048 -96.52) (size 3.302 3.302) (drill 3.302) (layers *.Cu *.Mask F.SilkS))
+)
