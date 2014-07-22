@@ -1,4 +1,7 @@
 #!/bin/bash
+# rm_net_pad_clearance.sh
+# Austin Beam | Alan Bullick
+# Remove net pad clearance values that we shouldn't have ever added :)
 
 # Check for dependencies
 DEPS="find dos2unix sed unix2dos"

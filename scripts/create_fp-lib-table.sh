@@ -1,6 +1,6 @@
 #!/bin/bash
-# Austin Beam | Alan Bullick
 # create_fp-lib-table.sh
+# Austin Beam | Alan Bullick
 # Create KiCad fp-lib-table based on existence of pattern-define KiCad '.pretty'
 # module libraries
 
@@ -15,11 +15,11 @@ SCRIPTDIR=$(cd $(dirname $BASH_SOURCE); pwd)
 SCRIPTNAME=$(basename $BASH_SOURCE)
 
 # Default output file
-OUTFILE="template/fp-lib-table"
+OUTFILE="${SCRIPTDIR}/../template/fp-lib-table"
 # Default search pattern
 PATTERN="ab2*.pretty"
 # Default module directory
-MODDIR="${SCRIPTDIR}/modules"
+MODDIR="${SCRIPTDIR}/../modules"
 
 scriptecho() { builtin echo "==> $@"; }
 

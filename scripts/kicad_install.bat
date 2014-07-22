@@ -1,3 +1,7 @@
+:: kicad_install.bat
+:: Austin Beam | Alan Bullick
+:: Install AB2 KiCad components on a Windows system (tested with Windows 7)
+
 @echo off
 :: Label for starting over
 :start

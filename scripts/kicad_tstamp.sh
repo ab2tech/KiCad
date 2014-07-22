@@ -1,5 +1,6 @@
 #!/bin/bash
 # kicad_tstamp.sh
+# Austin Beam | Alan Bullick
 # Generate a KiCad-formatted hex timestamp. Optionally, use the specified date
 # modifier for generating the timestamp.
 #

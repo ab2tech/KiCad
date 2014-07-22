@@ -1,4 +1,7 @@
 #!/bin/bash
+# kicad_install.sh
+# Austin Beam | Alan Bullick
+# Install AB2 KiCad components on a Linux system (tested with Ubuntu)
 
 INVALID_PATH=127
 ABORT=3
