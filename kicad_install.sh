@@ -247,6 +247,7 @@ fi
 
 envsetup || scriptecho "KiCad environment not modified"
 
-scriptecho "\
-AB2 KiCad should now be in place. Double-check that results above match \
-desired configuration. Enjoy!"
+echo "
+AB2 KiCad should now be in place. Double-check that results above match desired
+configuration. A reboot may be required for the environment variables to take
+effect."
