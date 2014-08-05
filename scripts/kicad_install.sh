@@ -183,7 +183,7 @@ KICAD_ENVSETUP="\
 # Configured by kicad_install.sh of AB2 KiCad package
 export KIGITHUB=\"https://github.com/KiCad\"
 export KISYSMOD=\"${KICAD_INSTALL_PATH}/modules\"
-export KI3DSYSMOD=\"${KICAD_INSTALL_PATH}/3d_models\""
+export KISYS3DMOD=\"${KICAD_INSTALL_PATH}/3d_models\""
 
 envsetup()
 {
