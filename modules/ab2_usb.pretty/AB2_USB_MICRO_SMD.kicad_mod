@@ -59,7 +59,7 @@
   (pad 6 thru_hole circle (at 2.825 -2.75) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at -2 -4.9) (size 0.55 0.55) (drill 0.55) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at 1.99898 -4.9) (size 0.55 0.55) (drill 0.55) (layers *.Cu *.Mask F.SilkS))
-  (model ../3d_models/ab2_usb/AB2_USB_MICRO_SMD.wrl
+  (model ab2_usb/AB2_USB_MICRO_SMD.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

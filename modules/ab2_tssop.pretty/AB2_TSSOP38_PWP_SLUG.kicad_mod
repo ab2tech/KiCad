@@ -87,7 +87,7 @@
   (pad 37 smd rect (at -5.2 -2.8) (size 0.3 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 38 smd rect (at -5.85 -2.8) (size 0.3 1.6) (layers F.Cu F.Paste F.Mask))
   (pad PWP thru_hole rect (at 0 0) (size 5.18 3.1) (drill 2.54) (layers *.Cu *.Mask F.SilkS))
-  (model ../3d_models/ab2_tssop/AB2_TSSOP38_W.wrl
+  (model ab2_tssop/AB2_TSSOP38_W.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 180))

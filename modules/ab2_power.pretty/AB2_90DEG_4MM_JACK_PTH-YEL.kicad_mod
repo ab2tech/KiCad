@@ -23,7 +23,7 @@
   (fp_line (start 11.1 -4.9) (end -9.8 -4.9) (layer F.SilkS) (width 0.127))
   (pad 1 thru_hole circle (at -7.65 0) (size 2.7 2.7) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 7.65 0) (size 2.7 2.7) (drill 1.8) (layers *.Cu *.Mask F.SilkS))
-  (model ../3d_models/ab2_power/AB2_90DEG_4MM_JACK_PTH-YEL.wrl
+  (model ab2_power/AB2_90DEG_4MM_JACK_PTH-YEL.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 180))

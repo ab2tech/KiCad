@@ -82,12 +82,12 @@
   (pad 2 thru_hole circle (at 2.54 0) (size 2.794 2.794) (drill 1.778) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole circle (at -7.62 0) (size 2.794 2.794) (drill 1.778) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at -2.54 0) (size 2.794 2.794) (drill 1.778) (layers *.Cu *.Mask F.SilkS))
-  (model ../3d_models/ab2_terminal_block/AB2_TB_02_RA_5MM-BLU.wrl
+  (model ab2_terminal_block/AB2_TB_02_RA_5MM-BLU.wrl
     (at (xyz -0.2 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ../3d_models/ab2_terminal_block/AB2_TB_02_RA_5MM-BLU.wrl
+  (model ab2_terminal_block/AB2_TB_02_RA_5MM-BLU.wrl
     (at (xyz 0.2 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

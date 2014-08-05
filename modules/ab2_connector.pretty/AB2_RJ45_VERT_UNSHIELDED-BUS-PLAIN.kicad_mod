@@ -140,7 +140,7 @@
   (pad 7 thru_hole circle (at 3.175 -4.64) (size 1.3716 1.3716) (drill 0.9144) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at -5.715 1.71) (size 3.25 3.25) (drill 3.25) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at 5.715 1.71) (size 3.25 3.25) (drill 3.25) (layers *.Cu *.Mask F.SilkS))
-  (model ../3d_models/ab2_connector/AB2_RJ45_VERT_UNSHIELDED.wrl
+  (model ab2_connector/AB2_RJ45_VERT_UNSHIELDED.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

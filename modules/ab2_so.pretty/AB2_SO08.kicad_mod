@@ -26,7 +26,7 @@
   (pad 6 smd rect (at 0.635 -2.7) (size 0.6 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at -0.635 -2.7) (size 0.6 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at -1.905 -2.7) (size 0.6 1.5) (layers F.Cu F.Paste F.Mask))
-  (model ../3d_models/ab2_so/AB2_SO08.wrl
+  (model ab2_so/AB2_SO08.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 180))
