@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  12/18/2013 3:29:10 PM
+PCBNEW-LibModule-V1  9/15/2014 9:21:45 AM
 # encoding utf-8
 Units mm
 $INDEX
@@ -130,6 +130,12 @@ At SMD N 00888000
 Ne 0 ""
 Po 2.3 2.9
 $EndPAD
+$SHAPE3D
+Na "../3d_models/ab2_sot/AB2_SOT223.wrl"
+Sc 0.3937 0.3937 0.3937
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
 $EndMODULE AB2_SOT223
 $MODULE AB2_SOT23-3
 Po 0 0 0 15 52B07E45 00000000 ~~
