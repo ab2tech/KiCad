@@ -1,9 +1,10 @@
-PCBNEW-LibModule-V1  12/6/2013 4:23:31 PM
+PCBNEW-LibModule-V1  9/22/2014 3:37:14 PM
 # encoding utf-8
 Units mm
 $INDEX
 AB2_LQFP100
 AB2_LQFP128
+AB2_LQFP32
 AB2_LQFP48
 AB2_LQFP64
 AB2_LQFP80
@@ -1880,6 +1881,286 @@ Of 0 0 0
 Ro 0 0 -90
 $EndSHAPE3D
 $EndMODULE AB2_LQFP128
+$MODULE AB2_LQFP32
+Po 0 0 0 15 54208859 00000000 ~~
+Li AB2_LQFP32
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -1.27 0.8128 0.8128 0 0.0762 N V 21 N "AB2_LQFP32"
+T1 0 1.27 0.8128 0.8128 0 0.0762 N V 21 N "VAL**"
+DS 2.8 -4.3 2.8 -3.65 0.35 21
+DS 2 -4.3 2 -3.65 0.35 21
+DS 0.4 -4.3 0.4 -3.65 0.35 21
+DS 1.2 -4.3 1.2 -3.65 0.35 21
+DS -2 -4.3 -2 -3.65 0.35 21
+DS -2.8 -4.3 -2.8 -3.65 0.35 21
+DS -1.2 -4.3 -1.2 -3.65 0.35 21
+DS -0.4 -4.3 -0.4 -3.65 0.35 21
+DS 4.3 2.8 3.65 2.8 0.35 21
+DS 4.3 2 3.65 2 0.35 21
+DS 4.3 0.4 3.65 0.4 0.35 21
+DS 4.3 1.2 3.65 1.2 0.35 21
+DS 4.3 -2 3.65 -2 0.35 21
+DS 4.3 -2.8 3.65 -2.8 0.35 21
+DS 4.3 -1.2 3.65 -1.2 0.35 21
+DS 4.3 -0.4 3.65 -0.4 0.35 21
+DS -0.4 3.65 -0.4 4.3 0.35 21
+DS -1.2 3.65 -1.2 4.3 0.35 21
+DS -2.8 3.65 -2.8 4.3 0.35 21
+DS -2 3.65 -2 4.3 0.35 21
+DS 1.2 3.65 1.2 4.3 0.35 21
+DS 0.4 3.65 0.4 4.3 0.35 21
+DS 2 3.65 2 4.3 0.35 21
+DS 2.8 3.65 2.8 4.3 0.35 21
+DS -3.65 2.8 -4.3 2.8 0.35 21
+DS -3.65 2 -4.3 2 0.35 21
+DS -3.65 0.4 -4.3 0.4 0.35 21
+DS -3.65 1.2 -4.3 1.2 0.35 21
+DS -3.65 -2 -4.3 -2 0.35 21
+DS -3.65 -2.8 -4.3 -2.8 0.35 21
+DS -3.65 -1.2 -4.3 -1.2 0.35 21
+DS -3.65 -0.4 -4.3 -0.4 0.35 21
+DS -3 -3.5 3 -3.5 0.127 21
+DS 3 -3.5 3.5 -3 0.127 21
+DS 3.5 -3 3.5 3 0.127 21
+DS 3.5 3 3 3.5 0.127 21
+DS 3 3.5 -3 3.5 0.127 21
+DS -3 3.5 -3.5 3 0.127 21
+DS -3.5 3 -3.5 -3 0.127 21
+DS -3.5 -3 -3 -3.5 0.127 21
+DC -2.8 -2.8 -2.8 -3.1 0.127 21
+$PAD
+Sh "1" R 1.4 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.3 -2.8
+$EndPAD
+$PAD
+Sh "2" R 1.4 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.3 -2
+$EndPAD
+$PAD
+Sh "3" R 1.4 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.3 -1.2
+$EndPAD
+$PAD
+Sh "4" R 1.4 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.3 -0.4
+$EndPAD
+$PAD
+Sh "5" R 1.4 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.3 0.4
+$EndPAD
+$PAD
+Sh "6" R 1.4 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.3 1.2
+$EndPAD
+$PAD
+Sh "7" R 1.4 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.3 2
+$EndPAD
+$PAD
+Sh "8" R 1.4 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.3 2.8
+$EndPAD
+$PAD
+Sh "9" R 0.5 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.8 4.3
+$EndPAD
+$PAD
+Sh "10" R 0.5 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2 4.3
+$EndPAD
+$PAD
+Sh "11" R 0.5 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.2 4.3
+$EndPAD
+$PAD
+Sh "12" R 0.5 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4 4.3
+$EndPAD
+$PAD
+Sh "13" R 0.5 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4 4.3
+$EndPAD
+$PAD
+Sh "14" R 0.5 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.2 4.3
+$EndPAD
+$PAD
+Sh "15" R 0.5 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2 4.3
+$EndPAD
+$PAD
+Sh "16" R 0.5 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.8 4.3
+$EndPAD
+$PAD
+Sh "17" R 1.4 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.3 2.8
+$EndPAD
+$PAD
+Sh "18" R 1.4 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.3 2
+$EndPAD
+$PAD
+Sh "19" R 1.4 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.3 1.2
+$EndPAD
+$PAD
+Sh "20" R 1.4 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.3 0.4
+$EndPAD
+$PAD
+Sh "21" R 1.4 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.3 -0.4
+$EndPAD
+$PAD
+Sh "22" R 1.4 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.3 -1.2
+$EndPAD
+$PAD
+Sh "23" R 1.4 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.3 -2
+$EndPAD
+$PAD
+Sh "24" R 1.4 0.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.3 -2.8
+$EndPAD
+$PAD
+Sh "25" R 0.5 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.8 -4.3
+$EndPAD
+$PAD
+Sh "26" R 0.5 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2 -4.3
+$EndPAD
+$PAD
+Sh "27" R 0.5 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.2 -4.3
+$EndPAD
+$PAD
+Sh "28" R 0.5 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4 -4.3
+$EndPAD
+$PAD
+Sh "29" R 0.5 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4 -4.3
+$EndPAD
+$PAD
+Sh "30" R 0.5 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.2 -4.3
+$EndPAD
+$PAD
+Sh "31" R 0.5 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2 -4.3
+$EndPAD
+$PAD
+Sh "32" R 0.5 1.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.8 -4.3
+$EndPAD
+$SHAPE3D
+Na "../3d_models/ab2_lqfp/AB2_LQFP32.wrl"
+Sc 0.3937 0.3937 0.3937
+Of 0 0 0
+Ro 0 0 -90
+$EndSHAPE3D
+$EndMODULE AB2_LQFP32
 $MODULE AB2_LQFP48
 Po 0 0 0 15 52A16222 00000000 ~~
 Li AB2_LQFP48
