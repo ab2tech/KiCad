@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  10/10/2014 3:08:11 PM
+PCBNEW-LibModule-V1  10/16/2014 10:19:19 AM
 # encoding utf-8
 Units mm
 $INDEX
@@ -1496,207 +1496,213 @@ Ne 0 ""
 Po -20.32 1.27
 $EndPAD
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of -0.8 -0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of -0.7 -0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of -0.6 -0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of -0.5 -0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of -0.4 -0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of -0.3 -0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of -0.2 -0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of -0.1 -0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 -0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0.1 -0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0.2 -0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0.3 -0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0.4 -0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0.5 -0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0.6 -0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0.7 -0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0.8 -0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of -0.8 0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of -0.7 0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of -0.6 0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of -0.5 0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of -0.4 0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of -0.3 0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of -0.2 0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of -0.1 0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0.1 0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0.2 0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0.3 0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0.4 0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0.5 0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0.6 0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0.7 0.05 0
 Ro 0 0 0
 $EndSHAPE3D
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_idc/AB2_HDR_M01-1V-BARE-16p2-3p2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0.8 0.05 0
+Ro 0 0 0
+$EndSHAPE3D
+$SHAPE3D
+Na "../3d_models/ab2_idc/AB2_HDR_M17-2V-S-OMRON.wrl"
+Sc 0.3937 0.3937 0.3937
+Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE AB2_HDR_M17-2V-S
