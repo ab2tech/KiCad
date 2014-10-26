@@ -21,7 +21,7 @@
   (pad 1 thru_hole circle (at 2.1 2.4) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 4.1 -2.4) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 9.1 2.4) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
-  (model "../../../Program Files (x86)/KiCad/share/3d_models/ab2_connector/AB2_TRS_3p5MM_PTH.wrl"
+  (model "ab2_connector/AB2_TRS_3p5MM_PTH.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

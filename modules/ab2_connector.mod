@@ -1502,7 +1502,7 @@ Ne 0 ""
 Po 9.1 2.4
 $EndPAD
 $SHAPE3D
-Na "../../../Program Files (x86)/KiCad/share/3d_models/ab2_connector/AB2_TRS_3p5MM_PTH.wrl"
+Na "../3d_models/ab2_connector/AB2_TRS_3p5MM_PTH.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 0
