@@ -46,7 +46,7 @@
   (pad 3 thru_hole circle (at 0 -38.25) (size 2.7 2.7) (drill 2.7) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 0 38.25) (size 2.7 2.7) (drill 2.7) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 4.5 -27.5) (size 1.016 1.016) (drill 0.6096) (layers *.Cu *.Mask F.SilkS))
-  (model ab2_7seg/AB2_7SEG_8IN_V_RED.wrl
+  (model ab2_7seg/AB2_7SEG_8IN_V_RED.x3d
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

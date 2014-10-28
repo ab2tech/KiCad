@@ -17,7 +17,7 @@
   (pad 1 thru_hole circle (at 46.736 -3.048) (size 6.096 6.096) (drill 3.302) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 46.736 -96.52) (size 6.096 6.096) (drill 3.302) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 3.048 -96.52) (size 6.096 6.096) (drill 3.302) (layers *.Cu *.Mask F.SilkS))
-  (model ab2_holesnpoles/AB2_FR4_1.96x3.92INx1.6MM_ROUNDED.wrl
+  (model ab2_holesnpoles/AB2_FR4_1.96x3.92INx1.6MM_ROUNDED.x3d
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

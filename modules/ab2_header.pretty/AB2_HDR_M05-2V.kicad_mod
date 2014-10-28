@@ -52,52 +52,52 @@
   (pad 4 thru_hole circle (at -2.54 -1.27) (size 1.6764 1.6764) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at -5.08 -1.27) (size 1.6764 1.6764) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole rect (at -5.08 1.27) (size 1.6764 1.6764) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz -0.2 -0.05 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz -0.1 -0.05 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz 0 -0.05 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz 0.1 -0.05 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz 0.2 -0.05 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz -0.2 0.05 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz -0.1 0.05 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz 0 0.05 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz 0.1 0.05 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz 0.2 0.05 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

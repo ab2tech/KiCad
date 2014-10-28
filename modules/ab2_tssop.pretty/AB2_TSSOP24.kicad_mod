@@ -58,7 +58,7 @@
   (pad 4 smd rect (at -1.625 2.8) (size 0.3 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 13 smd rect (at 3.575 -2.8) (size 0.3 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 14 smd rect (at 2.925 -2.8) (size 0.3 1.6) (layers F.Cu F.Paste F.Mask))
-  (model ab2_tssop/AB2_TSSOP24.wrl
+  (model ab2_tssop/AB2_TSSOP24.x3d
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 180))

@@ -70,7 +70,7 @@
   (pad 28 smd rect (at -2.5 -2.8) (size 0.3 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 29 smd rect (at -3 -2.8) (size 0.3 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 30 smd rect (at -3.5 -2.8) (size 0.3 1.6) (layers F.Cu F.Paste F.Mask))
-  (model ab2_tssop/AB2_TSSOP30_0p50P.wrl
+  (model ab2_tssop/AB2_TSSOP30_0p50P.x3d
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 180))

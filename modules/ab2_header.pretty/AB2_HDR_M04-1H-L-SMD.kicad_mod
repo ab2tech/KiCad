@@ -40,22 +40,22 @@
   (pad 2 smd rect (at -1.27 2.286 180) (size 1.27 2.54) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 1.27 2.286 180) (size 1.27 2.54) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 3.81 2.286 180) (size 1.27 2.54) (layers F.Cu F.Paste F.Mask))
-  (model ab2_header/AB2_HDR_M01-1H.wrl
+  (model ab2_header/AB2_HDR_M01-1H.x3d
     (at (xyz -0.15 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 180))
   )
-  (model ab2_header/AB2_HDR_M01-1H.wrl
+  (model ab2_header/AB2_HDR_M01-1H.x3d
     (at (xyz -0.05 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 180))
   )
-  (model ab2_header/AB2_HDR_M01-1H.wrl
+  (model ab2_header/AB2_HDR_M01-1H.x3d
     (at (xyz 0.05 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 180))
   )
-  (model ab2_header/AB2_HDR_M01-1H.wrl
+  (model ab2_header/AB2_HDR_M01-1H.x3d
     (at (xyz 0.15 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 180))

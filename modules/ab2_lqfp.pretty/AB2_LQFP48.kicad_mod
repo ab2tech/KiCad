@@ -122,7 +122,7 @@
   (pad 46 smd rect (at -1.75 -4.3) (size 0.3 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 47 smd rect (at -2.25 -4.3) (size 0.3 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 48 smd rect (at -2.75 -4.3) (size 0.3 1.4) (layers F.Cu F.Paste F.Mask))
-  (model ab2_lqfp/AB2_LQFP48.wrl
+  (model ab2_lqfp/AB2_LQFP48.x3d
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 -90))

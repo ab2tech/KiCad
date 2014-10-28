@@ -301,7 +301,7 @@
   (pad "" thru_hole circle (at -15.494 -15.494) (size 3.175 3.175) (drill 3.175) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at 15.494 -15.494) (size 3.175 3.175) (drill 3.175) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at 15.494 15.494) (size 3.175 3.175) (drill 3.175) (layers *.Cu *.Mask F.SilkS))
-  (model ab2_heatsink/AB2_HS_40x40x11MM_BLK.wrl
+  (model ab2_heatsink/AB2_HS_40x40x11MM_BLK.x3d
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 180))

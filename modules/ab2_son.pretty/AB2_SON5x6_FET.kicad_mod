@@ -30,7 +30,7 @@
   (pad D smd rect (at -2.625 0.635) (size 1 0.675) (layers F.Cu F.Paste F.Mask))
   (pad D smd rect (at -2.625 1.905) (size 1 0.675) (layers F.Cu F.Paste F.Mask))
   (pad D smd rect (at -0.2725 0) (size 4.295 4.51) (layers F.Cu F.Paste F.Mask))
-  (model ab2_son/AB2_SON5x6MM.wrl
+  (model ab2_son/AB2_SON5x6MM.x3d
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

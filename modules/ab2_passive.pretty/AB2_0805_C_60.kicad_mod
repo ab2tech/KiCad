@@ -15,7 +15,7 @@
   (fp_line (start -0.95 0.6) (end -0.95 -0.6) (layer F.SilkS) (width 0.127))
   (pad 1 smd rect (at -1.1 0) (size 0.9 1.3) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.1 0) (size 0.9 1.3) (layers F.Cu F.Paste F.Mask))
-  (model ab2_passive/AB2_0805_C_60.wrl
+  (model ab2_passive/AB2_0805_C_60.x3d
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

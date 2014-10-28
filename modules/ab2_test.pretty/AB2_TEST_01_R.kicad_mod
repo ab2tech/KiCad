@@ -47,7 +47,7 @@
   (pad 2 thru_hole circle (at -2.54 0) (size 2.1844 2.1844) (drill 1.3208) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 0 0) (size 2.1844 2.1844) (drill 1.3208) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at -5.08 0) (size 2.1844 2.1844) (drill 1.3208) (layers *.Cu *.Mask F.SilkS))
-  (model ab2_terminal_block/AB2_TB_02_RA_5MM-BLK.wrl
+  (model ab2_terminal_block/AB2_TB_02_RA_5MM-BLK.x3d
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
