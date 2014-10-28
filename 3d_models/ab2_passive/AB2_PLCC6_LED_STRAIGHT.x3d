@@ -18,12 +18,12 @@
 		<Transform DEF="ShapeIndexedFaceSet_003_TRANSFORM"
 		           translation="0.000000 0.000000 0.000000"
 		           scale="1.000000 1.000000 1.000000"
-		           rotation="0.000000 0.000000 -0.000000 0.000000"
+		           rotation="-0.000000 0.000000 0.000000 0.000000"
 		           >
 			<Transform DEF="ShapeIndexedFaceSet_003_ifs_TRANSFORM"
 			           translation="0.000000 0.000000 0.000000"
 			           scale="1.000000 1.000000 1.000000"
-			           rotation="1.000000 0.000000 0.000000 0.000000"
+			           rotation="0.000000 0.000000 -0.000000 0.000000"
 			           >
 				<Group DEF="group_ME_ShapeIndexedFaceSet">
 					<Shape>
@@ -51,12 +51,12 @@
 		<Transform DEF="ShapeIndexedFaceSet_002_TRANSFORM"
 		           translation="0.000000 0.000000 0.000000"
 		           scale="1.000000 1.000000 1.000000"
-		           rotation="0.000000 0.000000 -0.000000 0.000000"
+		           rotation="-0.000000 0.000000 0.000000 0.000000"
 		           >
 			<Transform DEF="ShapeIndexedFaceSet_002_ifs_TRANSFORM"
 			           translation="0.000000 0.000000 0.000000"
 			           scale="1.000000 1.000000 1.000000"
-			           rotation="1.000000 0.000000 0.000000 0.000000"
+			           rotation="0.000000 0.000000 -0.000000 0.000000"
 			           >
 				<Group DEF="group_ME_ShapeIndexedFaceSet_003">
 					<Shape>
@@ -84,12 +84,12 @@
 		<Transform DEF="ShapeIndexedFaceSet_001_TRANSFORM"
 		           translation="0.000000 0.000000 0.000000"
 		           scale="1.000000 1.000000 1.000000"
-		           rotation="0.000000 0.000000 -0.000000 0.000000"
+		           rotation="-0.000000 0.000000 0.000000 0.000000"
 		           >
 			<Transform DEF="ShapeIndexedFaceSet_001_ifs_TRANSFORM"
 			           translation="0.000000 0.000000 0.000000"
 			           scale="1.000000 1.000000 1.000000"
-			           rotation="1.000000 0.000000 0.000000 0.000000"
+			           rotation="0.000000 0.000000 -0.000000 0.000000"
 			           >
 				<Group DEF="group_ME_ShapeIndexedFaceSet_002">
 					<Shape>
@@ -117,12 +117,12 @@
 		<Transform DEF="ShapeIndexedFaceSet_TRANSFORM"
 		           translation="0.000000 0.000000 0.000000"
 		           scale="1.000000 1.000000 1.000000"
-		           rotation="0.000000 0.000000 -0.000000 0.000000"
+		           rotation="-0.000000 0.000000 0.000000 0.000000"
 		           >
 			<Transform DEF="ShapeIndexedFaceSet_ifs_TRANSFORM"
 			           translation="0.000000 0.000000 0.000000"
 			           scale="1.000000 1.000000 1.000000"
-			           rotation="1.000000 0.000000 0.000000 0.000000"
+			           rotation="0.000000 0.000000 -0.000000 0.000000"
 			           >
 				<Group DEF="group_ME_ShapeIndexedFaceSet_001">
 					<Shape>
@@ -147,39 +147,6 @@
 				</Group>
 			</Transform>
 		</Transform>
-		<Transform DEF="Cube_TRANSFORM"
-		           translation="0.000000 0.000000 0.000000"
-		           scale="1.000000 1.000000 1.000000"
-		           rotation="0.000000 0.707107 0.707107 3.141593"
-		           >
-			<Transform DEF="Cube_ifs_TRANSFORM"
-			           translation="0.000000 0.000000 0.000000"
-			           scale="1.000000 1.000000 1.000000"
-			           rotation="1.000000 0.000000 0.000000 0.000000"
-			           >
-				<Group DEF="group_ME_Cube">
-					<Shape>
-						<Appearance>
-							<Material DEF="MA_Material"
-							          diffuseColor="0.800 0.800 0.800"
-							          specularColor="0.401 0.401 0.401"
-							          emissiveColor="0.000 0.000 0.000"
-							          ambientIntensity="0.333"
-							          shininess="0.098"
-							          transparency="0.0"
-							          />
-						</Appearance>
-						<IndexedFaceSet solid="true"
-						                coordIndex="0 1 2 3 -1 4 7 6 5 -1 0 4 5 1 -1 1 5 6 2 -1 2 6 7 3 -1 4 0 3 7 -1 "
-						                >
-							<Coordinate DEF="coords_ME_Cube"
-							            point="1.000000 1.000000 -1.000000 1.000000 -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 1.000000 -1.000000 1.000000 0.999999 1.000000 0.999999 -1.000001 1.000000 -1.000000 -1.000000 1.000000 -1.000000 1.000000 1.000000 "
-							            />
-						</IndexedFaceSet>
-					</Shape>
-				</Group>
-			</Transform>
-		</Transform>
 		<Transform DEF="Lamp_TRANSFORM"
 		           translation="-4.076245 5.903862 1.005454"
 		           scale="1.000000 1.000000 1.000000"
@@ -190,7 +157,7 @@
 			            color="1.0000 1.0000 1.0000"
 			            intensity="0.5714"
 			            radius="30.0000" 
-			            location="-0.0000 -0.0000 0.0000"
+			            location="-0.0000 -0.0000 -0.0000"
 			            />
 		</Transform>
 		<Transform DEF="Camera_TRANSFORM"
@@ -200,8 +167,8 @@
 		           >
 			<Viewpoint DEF="CA_Camera"
 			           centerOfRotation="0 0 0"
-			           position="0.00 0.00 -0.00"
-			           orientation="-0.92 0.35 0.17 0.00"
+			           position="0.00 -0.00 0.00"
+			           orientation="0.99 0.07 0.10 0.00"
 			           fieldOfView="0.858"
 			           />
 		</Transform>
