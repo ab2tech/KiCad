@@ -5,6 +5,9 @@
 # NOTE: Must have a recent version of KiCad installed that supports the .pretty
 # format. Also, must have the lib_convert.py script in place.
 
+SCRIPTNAME="$(basename ${BASH_SOURCE[0]} .sh)"
+SCRIPTDIR="$(cd $(dirname "$(readlink -f ${BASH_SOURCE[0]})"); pwd)"
+
 # Source the colors file if it exists
 [ -f ~/.bash_colors ] && . ~/.bash_colors
 
@@ -49,7 +52,11 @@ done
 # Next, modify 3D model paths to work with the newer versions of KiCad. This
 # will also repair any model path changes we might have made.
 scriptecho "Executing 3D model path modifications"
-for file in $(ls -d -1 modules/ab2*pretty/*.*); do
+for file in $(ls -d -1 modules/ab2*pretty/*.kicad_mod); do
+  # Point to the X3D model instead of the WRL model
+  sed 's#\(\s*(model.*\).wrl#\1.x3d#g' -i "$file"
+  # Remove the leading '../3d_models' path prefix since newer versions of KiCad
+  # rely on environment variables and don't handle relative paths cleanly
   sed 's#\.\./3d_models/##g' -i "$file"
 done
 
@@ -60,6 +67,9 @@ echo -e "${RED}==> The following modules only exist as .kicad_mod files:"
 git ls-files --deleted
 echo -en "${RST}"
 git ls-files --deleted | xargs git checkout
+
+# Go ahead and make sure all 3D models have been appropriately converted to X3D
+bash "${SCRIPTDIR}/convert_wrl.sh"
 
 # Finally, make a commit listing all the changes.
 if [ -z "$(git status --porcelain)" ]; then
