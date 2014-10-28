@@ -41,7 +41,7 @@
   (pad 6 thru_hole circle (at -2.5 -7) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 7 thru_hole rect (at -5.7 0) (size 3.2 3.2) (drill 2.6) (layers *.Cu *.Mask F.SilkS))
   (pad 7 thru_hole rect (at 5.7 0) (size 3.2 3.2) (drill 2.6) (layers *.Cu *.Mask F.SilkS))
-  (model ab2_input_devices/AB2_ROT_ENC_W_SW.wrl
+  (model ab2_input_devices/AB2_ROT_ENC_W_SW.x3d
     (at (xyz 0 0 0))
     (scale (xyz 0.01573 0.01573 0.01573))
     (rotate (xyz 0 0 180))

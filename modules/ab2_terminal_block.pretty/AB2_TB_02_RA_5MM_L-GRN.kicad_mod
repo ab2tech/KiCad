@@ -45,7 +45,7 @@
   (fp_line (start -0.381 1.905) (end -0.381 -1.905) (layer F.SilkS) (width 0.127))
   (pad 1 thru_hole circle (at -2.5 0) (size 2.794 2.794) (drill 1.778) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 2.5 0) (size 2.794 2.794) (drill 1.778) (layers *.Cu *.Mask F.SilkS))
-  (model ab2_terminal_block/AB2_TB_02_RA_5MM-GRN.wrl
+  (model ab2_terminal_block/AB2_TB_02_RA_5MM-GRN.x3d
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

@@ -21,7 +21,7 @@
   (pad 1 smd rect (at 3.1 -1.85) (size 1.8 1.1) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -3.1 1.85) (size 1.8 1.1) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3.1 1.85) (size 1.8 1.1) (layers F.Cu F.Paste F.Mask))
-  (model ab2_input_devices/AB2_PB_MOM_5.2MM_SMD.wrl
+  (model ab2_input_devices/AB2_PB_MOM_5.2MM_SMD.x3d
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

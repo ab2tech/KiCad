@@ -98,7 +98,7 @@
   (pad 42 smd rect (at -4.25 -2.8) (size 0.275 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 43 smd rect (at -4.75 -2.8) (size 0.275 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 44 smd rect (at -5.25 -2.8) (size 0.275 1.6) (layers F.Cu F.Paste F.Mask))
-  (model ab2_tssop/AB2_TSSOP44_0p50P.wrl
+  (model ab2_tssop/AB2_TSSOP44_0p50P.x3d
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 180))

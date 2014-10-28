@@ -112,77 +112,77 @@
   (pad 13 thru_hole circle (at 12.7 0) (size 1.6764 1.6764) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 14 thru_hole circle (at 15.24 0) (size 1.6764 1.6764) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 15 thru_hole circle (at 17.78 0) (size 1.6764 1.6764) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz -0.7 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz -0.6 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz -0.5 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz -0.4 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz -0.3 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz -0.2 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz -0.1 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz 0.1 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz 0.2 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz 0.3 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz 0.4 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz 0.5 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz 0.6 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz 0.7 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

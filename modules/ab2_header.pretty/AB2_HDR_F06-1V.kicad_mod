@@ -121,32 +121,32 @@
   (pad 4 thru_hole circle (at 1.27 0) (size 1.6764 1.6764) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 5 thru_hole circle (at 3.81 0) (size 1.6764 1.6764) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 6 thru_hole circle (at 6.35 0) (size 1.6764 1.6764) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz -0.25 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz -0.15 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz -0.05 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz 0.05 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz 0.15 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ab2_header/AB2_HDR_M01-1V.wrl
+  (model ab2_header/AB2_HDR_M01-1V.x3d
     (at (xyz 0.25 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

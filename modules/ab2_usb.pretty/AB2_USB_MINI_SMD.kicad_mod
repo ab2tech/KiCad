@@ -117,7 +117,7 @@
   (pad 3 smd rect (at 0 -8.5) (size 0.5 2.3) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 0.8 -8.5) (size 0.5 2.3) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 1.6 -8.5) (size 0.5 2.3) (layers F.Cu F.Paste F.Mask))
-  (model ab2_usb/AB2_USB_MINI_SMD.wrl
+  (model ab2_usb/AB2_USB_MINI_SMD.x3d
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

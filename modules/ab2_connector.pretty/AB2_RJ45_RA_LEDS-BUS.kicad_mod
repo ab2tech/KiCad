@@ -181,7 +181,7 @@
   (pad 13 thru_hole circle (at 8.128 -1.143) (size 2.1844 2.1844) (drill 1.5748) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at -6.35 2.286) (size 3.175 3.175) (drill 3.175) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at 6.35 2.286) (size 3.175 3.175) (drill 3.175) (layers *.Cu *.Mask F.SilkS))
-  (model ab2_connector/AB2_RJ45_RA_LEDS.wrl
+  (model ab2_connector/AB2_RJ45_RA_LEDS.x3d
     (at (xyz 0 0.025 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
