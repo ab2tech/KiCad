@@ -1,9 +1,0 @@
-(export (version D)
-  (design
-    (source "Y:/AB2/KiCad Designs/AB2-K03D - Models/AB2-K03D - Models.sch")
-    (date "12/1/2013 11:24:39 PM")
-    (tool "eeschema (2013-07-07 BZR 4022)-stable"))
-  (components)
-  (libparts)
-  (libraries)
-  (nets))
