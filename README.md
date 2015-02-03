@@ -30,6 +30,8 @@ If using Windows with newer versions of KiCad, manually configure the following 
 
 Once the content is in place via symlink, simply use KiCad as normal. AB2Tech content is now available for use.
 
+If using Arch Linux, an [AUR package](https://github.com/ab2tech/KiCad) is available.  The libraries will need to be manually added to the library table.
+
 Notes
 -----
 * We're doing our best to support modules for both legacy and ".pretty" formats. For now, this involves creating all of our modules in legacy format and then converting them. Please see our [scripts](scripts) directory for those interested in how we're doing this.
