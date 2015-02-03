@@ -1,4 +1,4 @@
-(module AB2_7SEG_8IN_V_RED (layer F.Cu) (tedit 535F0E6B)
+(module AB2_7SEG_8IN_V_RED (layer F.Cu) (tedit 54753A24)
   (fp_text reference AB2_7SEG_5IN_V_RED (at 0 -33.02) (layer F.SilkS)
     (effects (font (size 0.8128 0.8128) (thickness 0.0762)))
   )
@@ -43,8 +43,8 @@
   (pad 2 thru_hole circle (at -4.5 27.5) (size 1.016 1.016) (drill 0.6096) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 4.5 27.5) (size 1.016 1.016) (drill 0.6096) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at -4.5 -27.5) (size 1.016 1.016) (drill 0.6096) (layers *.Cu *.Mask F.SilkS))
-  (pad 3 thru_hole circle (at 0 -38.25) (size 2.7 2.7) (drill 2.7) (layers *.Cu *.Mask F.SilkS))
-  (pad 3 thru_hole circle (at 0 38.25) (size 2.7 2.7) (drill 2.7) (layers *.Cu *.Mask F.SilkS))
+  (pad 3 thru_hole circle (at 0 -38.25) (size 3.175 3.175) (drill 3.175) (layers *.Cu *.Mask F.SilkS))
+  (pad 3 thru_hole circle (at 0 38.25) (size 3.175 3.175) (drill 3.175) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 4.5 -27.5) (size 1.016 1.016) (drill 0.6096) (layers *.Cu *.Mask F.SilkS))
   (model ab2_7seg/AB2_7SEG_8IN_V_RED.x3d
     (at (xyz 0 0 0))
