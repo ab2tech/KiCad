@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  12/30/2014 12:28:45 PM
+PCBNEW-LibModule-V1  2/9/2015 10:59:21 AM
 # encoding utf-8
 Units mm
 $INDEX
@@ -11845,27 +11845,9 @@ Ne 0 ""
 Po 1.27 -2.16
 $EndPAD
 $SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
+Na "../3d_models/ab2_header/AB2_HDR_M04-1V_CPU_FAN.wrl"
 Sc 0.3937 0.3937 0.3937
-Of -0.15 0 0
-Ro 0 0 0
-$EndSHAPE3D
-$SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
-Sc 0.3937 0.3937 0.3937
-Of -0.05 0 0
-Ro 0 0 0
-$EndSHAPE3D
-$SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
-Sc 0.3937 0.3937 0.3937
-Of 0.05 0 0
-Ro 0 0 0
-$EndSHAPE3D
-$SHAPE3D
-Na "../3d_models/ab2_header/AB2_HDR_M01-1V.wrl"
-Sc 0.3937 0.3937 0.3937
-Of 0.15 0 0
+Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE AB2_HDR_M04-1V_CPU_FAN
