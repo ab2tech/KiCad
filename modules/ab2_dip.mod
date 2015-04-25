@@ -77,7 +77,7 @@ Ne 0 ""
 Po -3.81 -3.81
 $EndPAD
 $SHAPE3D
-Na "../../../Program Files (x86)/KiCad/share/3d_models/ab2_dip/AB2_DIP_08_SCKT.wrl"
+Na "../3d_models/ab2_dip/AB2_DIP_08_SCKT.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 0
