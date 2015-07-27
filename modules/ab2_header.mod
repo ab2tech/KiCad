@@ -11674,6 +11674,30 @@ At SMD N 00888000
 Ne 0 ""
 Po 3.81 -2.286
 $EndPAD
+$SHAPE3D
+Na "../3d_models/ab2_header/AB2_HDR_M01-1H.wrl"
+Sc 0.3937 0.3937 0.3937
+Of -0.15 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$SHAPE3D
+Na "../3d_models/ab2_header/AB2_HDR_M01-1H.wrl"
+Sc 0.3937 0.3937 0.3937
+Of -0.05 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$SHAPE3D
+Na "../3d_models/ab2_header/AB2_HDR_M01-1H.wrl"
+Sc 0.3937 0.3937 0.3937
+Of 0.05 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$SHAPE3D
+Na "../3d_models/ab2_header/AB2_HDR_M01-1H.wrl"
+Sc 0.3937 0.3937 0.3937
+Of 0.15 0 0
+Ro 0 0 0
+$EndSHAPE3D
 $EndMODULE AB2_HDR_M04-1H-R-SMD
 $MODULE AB2_HDR_M04-1V
 Po 0 0 0 15 5294F20B 00000000 ~~
