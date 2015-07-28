@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: 2/23/2015 12:36:47 PM
+EESchema-LIBRARY Version 2.3  Date: 7/27/2015 9:16:59 AM
 #encoding utf-8
 #
 # AB2_12V
@@ -25,6 +25,20 @@ F3 "~" 0 0 60 H V C CNN
 DRAW
 T 0 0 100 60 0 0 0 24V  Normal 0 C C
 X 24V 1 0 0 0 U 20 20 0 0 W N
+P 5 0 1 0  -50 0  0 50  50 0  -50 0  0 0 F
+ENDDRAW
+ENDDEF
+#
+# AB2_3V
+#
+DEF ~AB2_3V #PWR 0 0 N N 1 F P
+F0 "#PWR" 0 300 60 H I C CNN
+F1 "AB2_3V" 0 200 60 H I C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+T 0 0 100 60 0 0 0 3V  Normal 0 C C
+X 3V 1 0 0 0 U 20 20 0 0 W N
 P 5 0 1 0  -50 0  0 50  50 0  -50 0  0 0 F
 ENDDRAW
 ENDDEF
