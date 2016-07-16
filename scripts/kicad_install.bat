@@ -15,13 +15,8 @@ setlocal EnableDelayedExpansion
 set choice=
 set default_kicad_install_path=
 
-:: Determine if this is a 64-bit machine or not and base the Program Files
-:: path on this for determining a default install directory
-if %PROCESSOR_ARCHITECTURE%==x86 (
-  set default_kicad_install_path="%ProgramFiles%\KiCad"
-) else (
-  set default_kicad_install_path="%ProgramFiles(x86)%\KiCad"
-)
+:: Default KiCad install directory
+set default_kicad_install_path="%ProgramFiles%\KiCad"
 :: Remove those damn quotes
 set default_kicad_install_path=%default_kicad_install_path:"=%
 :: Set the default share path
