@@ -133,6 +133,17 @@ prompt()
   fi
 }
 
+backupFailed()
+{
+  scriptecho "'$KICAD_INSTALL_PATH' not backed up."
+  scriptecho "\
+Cannot continue -- please manually back this directory up and \
+rerun the script, or rerun the script and allow the script to back this \
+directory up. Alternatively, this directory can be deleted if you would \
+like to purge the existing KiCad content and only have AB2 resources."
+  return $ERROR
+}
+
 backup()
 {
   # Don't backup or sync if the KiCad install path is already a link. This
@@ -148,12 +159,14 @@ backup()
     fi
     NOSYNC=true
     return 0
-  fi
-
-  scriptecho "mv \"$KICAD_INSTALL_PATH\" \"${KICAD_INSTALL_PATH_ORIG}\""
-  prompt "Continue backing up? [y/n]" || return $?
-  if [ -z "$NOACT" ]; then
-    sudo mv "$KICAD_INSTALL_PATH" "${KICAD_INSTALL_PATH_ORIG}" || exit $?
+  elif [ -d "$KICAD_INSTALL_PATH" ]; then
+    scriptecho "mv \"$KICAD_INSTALL_PATH\" \"${KICAD_INSTALL_PATH_ORIG}\""
+    prompt "Continue backing up? [y/n]" || { backupFailed; exit $?; };
+    if [ -z "$NOACT" ]; then
+      sudo mv "$KICAD_INSTALL_PATH" "${KICAD_INSTALL_PATH_ORIG}" || exit $?
+    fi
+  else
+    scriptecho "KiCad path does not exist. No need to back it up!"
   fi
 }
 
@@ -174,7 +187,7 @@ sync()
     rsync -aP --exclude='template/kicad.pro' \
       "${KICAD_INSTALL_PATH_ORIG}/" \
       "${AB2_KICAD_PATH}/." &> /dev/null \
-      || exit $?
+      || scriptecho "Unable to successfully sync the backup. Does it exist?"
   fi
 }
 
