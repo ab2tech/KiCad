@@ -1,6 +1,7 @@
 (fp_lib_table
   (lib (name "ab2_7segment")(type KiCad)(uri "${KISYSMOD}/ab2_7segment.pretty")(options "")(descr ""))
   (lib (name "ab2_audio")(type KiCad)(uri "${KISYSMOD}/ab2_audio.pretty")(options "")(descr ""))
+  (lib (name "ab2_breakout")(type KiCad)(uri "${KISYSMOD}/ab2_breakout.pretty")(options "")(descr ""))
   (lib (name "ab2_connector")(type KiCad)(uri "${KISYSMOD}/ab2_connector.pretty")(options "")(descr ""))
   (lib (name "ab2_header")(type KiCad)(uri "${KISYSMOD}/ab2_header.pretty")(options "")(descr ""))
   (lib (name "ab2_heatsink")(type KiCad)(uri "${KISYSMOD}/ab2_heatsink.pretty")(options "")(descr ""))
