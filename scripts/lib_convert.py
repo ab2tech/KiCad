@@ -22,8 +22,12 @@
 
 
 from __future__ import print_function
-from pcbnew import *
 import sys
+try:
+  from pcbnew import *
+except:
+  print("==>       ERROR: KiCAD PCBNew not detected on this system.")
+  sys.exit(1)
 
 if len( sys.argv ) < 3 :
     print( "usage: script srcLibraryPath dstLibraryPath" )
