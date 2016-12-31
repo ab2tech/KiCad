@@ -179,18 +179,6 @@ link()
   fi
 }
 
-sync()
-{
-  scriptecho "rsync -aP \"${KICAD_INSTALL_PATH_ORIG}/\" \"${AB2_KICAD_PATH}/.\""
-  prompt "Continue syncing? [y/n]" || return $?
-  if [ -z "$NOACT" ]; then
-    rsync -aP --ignore-existing \
-      "${KICAD_INSTALL_PATH_ORIG}/" \
-      "${AB2_KICAD_PATH}/." &> /dev/null \
-      || scriptecho "Unable to successfully sync the backup. Does it exist?"
-  fi
-}
-
 KICAD_ENVSETUP="\
 # KiCad Environment Variables
 # Configured by kicad_install.sh of AB2 KiCad package
@@ -252,14 +240,6 @@ else
 fi
 
 link || scriptecho "'$KICAD_INSTALL_PATH' not linked to AB2 KiCad path"
-
-if [ -z "$NOSYNC" ]; then
-  if [ -z "$NOACT" -a -d "$KICAD_INSTALL_PATH_ORIG" ]; then
-    sync || scriptecho "'$KICAD_INSTALL_PATH_ORIG' not synced into AB2 KiCad path"
-  elif [ -d "$KICAD_INSTALL_PATH" ]; then
-    sync || scriptecho "'$KICAD_INSTALL_PATH_ORIG' not synced into AB2 KiCad path"
-  fi
-fi
 
 envsetup || scriptecho "KiCad environment not modified"
 
