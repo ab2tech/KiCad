@@ -184,7 +184,7 @@ sync()
   scriptecho "rsync -aP \"${KICAD_INSTALL_PATH_ORIG}/\" \"${AB2_KICAD_PATH}/.\""
   prompt "Continue syncing? [y/n]" || return $?
   if [ -z "$NOACT" ]; then
-    rsync -aP --exclude='template/kicad.pro' \
+    rsync -aP --ignore-existing \
       "${KICAD_INSTALL_PATH_ORIG}/" \
       "${AB2_KICAD_PATH}/." &> /dev/null \
       || scriptecho "Unable to successfully sync the backup. Does it exist?"
