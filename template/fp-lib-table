@@ -16,7 +16,7 @@
   (lib (name "ab2_qfn")(type KiCad)(uri "${KISYSMOD}/ab2_qfn.pretty")(options "")(descr ""))
   (lib (name "ab2_relay")(type KiCad)(uri "${KISYSMOD}/ab2_relay.pretty")(options "")(descr ""))
   (lib (name "ab2_so")(type KiCad)(uri "${KISYSMOD}/ab2_so.pretty")(options "")(descr ""))
-  (lib (name "ab2_sod")(type KiCad)(uri "${KISYSMOD}/ab2_so.pretty")(options "")(descr ""))
+  (lib (name "ab2_sod")(type KiCad)(uri "${KISYSMOD}/ab2_sod.pretty")(options "")(descr ""))
   (lib (name "ab2_son")(type KiCad)(uri "${KISYSMOD}/ab2_son.pretty")(options "")(descr ""))
   (lib (name "ab2_sop")(type KiCad)(uri "${KISYSMOD}/ab2_sop.pretty")(options "")(descr ""))
   (lib (name "ab2_sot")(type KiCad)(uri "${KISYSMOD}/ab2_sot.pretty")(options "")(descr ""))
