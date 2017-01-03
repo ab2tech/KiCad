@@ -55,7 +55,7 @@
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
-  (model ../../../AB2/KiCad/3d_models/ab2_jumper/AB2_JMP_2P.x3d
+  (model ab2_jumper/AB2_JMP_2P.x3d
     (at (xyz -0.05 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
