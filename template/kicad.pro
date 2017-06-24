@@ -1,10 +1,6 @@
-update=31/12/2016 21:04:00
+update=6/23/2017 8:46:55 AM
 version=1
 last_client=kicad
-[general]
-version=1
-RootSch=
-BoardNm=
 [pcbnew]
 version=1
 LastNetListRead=
@@ -62,3 +58,5 @@ LibName28=ab2_transistor
 LibName29=ab2_uC
 LibName30=ab2_usb
 LibName31=ab2_xtal
+[general]
+version=1
