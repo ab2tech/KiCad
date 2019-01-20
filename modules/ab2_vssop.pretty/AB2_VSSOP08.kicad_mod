@@ -1,5 +1,5 @@
-(module AB2_VSSOP8 (layer F.Cu) (tedit 52A6A32B)
-  (fp_text reference AB2_VSSOP8 (at -2.55 0 90) (layer F.SilkS)
+(module AB2_VSSOP08 (layer F.Cu) (tedit 59F74977)
+  (fp_text reference AB2_VSSOP08 (at -2.55 0 90) (layer F.SilkS)
     (effects (font (size 0.8128 0.8128) (thickness 0.0762)))
   )
   (fp_text value VAL** (at -3.9 2.15 90) (layer F.SilkS)
