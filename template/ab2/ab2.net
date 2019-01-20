@@ -1,8 +1,8 @@
 (export (version D)
   (design
-    (source "C:/AB2/KiCad Designs/ab2/ab2.sch")
-    (date "6/23/2017 9:05:33 AM")
-    (tool "Eeschema 4.0.5")
+    (source C:\AB2\KiCad\template\ab2\ab2.sch)
+    (date "1/16/2019 3:43:37 PM")
+    (tool "Eeschema (5.0.2)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
         (title)
