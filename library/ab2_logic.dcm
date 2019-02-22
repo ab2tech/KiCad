@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AB2_CD4075B
+D CMOS Triple 3-Input OR Gate
+F http://www.ti.com/product/cd4075b
+$ENDCMP
+#
+#End Doc Library
