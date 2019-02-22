@@ -39,7 +39,7 @@
     (user_trace_width 0.508)
     (user_trace_width 0.762)
     (trace_clearance 0.1524)
-    (zone_clearance 0.508)
+    (zone_clearance 0.2032)
     (zone_45_only no)
     (trace_min 0.1524)
     (segment_width 0.0762)
